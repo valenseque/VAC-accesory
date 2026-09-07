@@ -107,7 +107,7 @@ export const products: Product[] = [
     price: 8000,
     material: 'Acero blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#5Y4w4ow',
+    image: 'https://imgur.com/0ogyIlh',
     isNew: true,
     isFeatured: true
   },
@@ -117,7 +117,7 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#vDtVOfU',
+    image: 'https://imgur.com/a/PTdl1X1',
     isNew: false,
     isFeatured: false
   },
@@ -127,7 +127,7 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#csFsKSr',
+    image: 'https://imgur.com/a/ink8ho9',
     isNew: false,
     isFeatured: false
   },
@@ -137,7 +137,7 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#eHxWfEo',
+    image: 'https://imgur.com/a/zzCpc2H',
     isNew: false,
     isFeatured: false
   },
@@ -147,7 +147,7 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#eSyq5km',
+    image: 'https://imgur.com/a/tCYWk3K',
     isNew: false,
     isFeatured: false
   },
