@@ -63,7 +63,7 @@ export const products: Product[] = [
     price: 3200,
     material: 'Plata de Ley',
     category: 'Anillos',
-    image: 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=400&fit=crop',
+    image: 'https://drive.google.com/file/d/1z3aiT9xXnqb_MKV1DFXdQz_6ZEr0JIqk/view',
     isNew: false,
     isFeatured: false
   },
