@@ -103,28 +103,58 @@ export const products: Product[] = [
   // ========= PULSERAS =========
   {
     id: 6,
-    name: 'Pulsera Oro Rosa',
-    price: 950,
-    material: 'Acero Dorado',
+    name: 'pulsera corazon azul',
+    price: 8000,
+    material: 'Acero blanco',
     category: 'Pulseras',
-    image: 'https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=400&h=400&fit=crop',
+    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#5Y4w4ow',
     isNew: true,
     isFeatured: true
   },
   {
     id: 7,
-    name: 'Pulsera Tennis Elegante',
-    price: 2100,
+    name: 'pulsera geometrica',
+    price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400&h=400&fit=crop',
+    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#vDtVOfU',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 8,
+    name: 'pulsera estilo van cleef plateada',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#csFsKSr',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 9,
+    name: 'pulsera rio de estrellas',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#eHxWfEo',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 10,
+    name: 'pulsera eterna',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://imgur.com/gallery/catalogo-vac-COeVkiO#eSyq5km',
     isNew: false,
     isFeatured: false
   },
 
   // ========= ARETES =========
   {
-    id: 8,
+    id: 11,
     name: 'Aretes Zafiro Real',
     price: 1200,
     material: 'Acero Blanco',
@@ -134,7 +164,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 9,
+    id: 12,
     name: 'Aretes Gota de Luna',
     price: 890,
     material: 'Acero Quirúrgico',
