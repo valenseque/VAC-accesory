@@ -651,7 +651,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/d1kZhLZt/IMG-20260826-180407552-HDR-AE.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 63,
     name: 'Aros abiertos',
@@ -661,17 +661,17 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/y8pN07zb/IMG-20260826-WA0004.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 64,
-    name: 'Aros corazon de piedra ',
+    name: 'Aros corazon de piedra',
     price: 890,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/3RTQvqd7/IMG-20260826-WA0369.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 65,
     name: 'Aros de corazon',
@@ -681,7 +681,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/Z5pfd53v/IMG-20260826-WA3941.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 66,
     name: 'Aros pizza',
@@ -691,7 +691,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/0Q2ZFG4r/IMG-20260826-WA5014.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 67,
     name: 'Aros argolla',
@@ -701,7 +701,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/q7pG6Xpk/IMG-20260826-WA5190.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 68,
     name: 'Aros mariquita',
@@ -711,7 +711,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/8PW3h4g8/IMG-20260826-WA5465.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 69,
     name: 'Aros corazon aircoiris',
@@ -721,7 +721,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/FHkcJXVQ/IMG-20260902-WA0832.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 70,
     name: 'Aros mini mariposa',
@@ -731,7 +731,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/BQGNGGRn/IMG-20260826-WA9575.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 71,
     name: 'Aros cero arcoiris',
@@ -741,7 +741,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/Bbf5sxYT/IMG-20260902-WA1078.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 72,
     name: 'Aros estrella de mar',
@@ -751,7 +751,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/8cbvSxrv/IMG-20260902-WA2155.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 73,
     name: 'Aros estrellado dorado',
@@ -761,7 +761,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/HL77xr73/IMG-20260902-WA4021.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 74,
     name: 'Aros gotas dorado',
@@ -771,7 +771,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/4xYYLYwy/IMG-20260902-WA4414.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 75,
     name: 'Aros gotas de color',
@@ -781,7 +781,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/MpfG0hKH/IMG-20260902-WA7039.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 {
     id: 76,
     name: 'Aros argollas gruesas',
@@ -791,7 +791,7 @@ export const products: Product[] = [
     image: 'https://i.postimg.cc/fybzVPrz/IMG-20260903-WA3871.jpg',
     isNew: true,
     isFeatured: false
-  }
+  },
 ]
 
 // Categorías disponibles
