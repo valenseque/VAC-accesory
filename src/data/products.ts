@@ -1,4 +1,3 @@
-https://i.postimg.cc/wj09Q1xx/IMG-20260903-WA9354.jpg
 // 📦 ARCHIVO DE CONFIGURACIÓN DE PRODUCTOS
 // ============================================
 // 
