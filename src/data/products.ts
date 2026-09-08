@@ -522,11 +522,11 @@ export const products: Product[] = [
   },
 {
     id: 49,
-    name: 'multiples pulseras gruesas',
+    name: 'pulsera triple gruesa',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/pV5SS326/IMG-20260826-WA2487.jpg',
+    image: 'https://i.postimg.cc/SKyx0jfV/IMG-20260908-WA3677.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -542,11 +542,11 @@ export const products: Product[] = [
   },
 {
     id: 51,
-    name: 'pulsera triple y arcoiris',
+    name: 'pulsera pretzel',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/zvwFrCtM/IMG-20260826-WA3427.jpg',
+    image: 'https://i.postimg.cc/2jqv9X6m/IMG-20260908-WA5161.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -566,27 +566,27 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/pr1Xy76k/IMG-20260826-WA5393.jpg',
+    image: 'https://i.postimg.cc/gJLJsQKQ/IMG-20260908-WA7707.jpg',
     isNew: false,
     isFeatured: false
   },
 {
     id: 55,
-    name: 'pulseras eclipse',
+    name: 'pulsera corazon negro',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/T3nfXpfn/IMG-20260826-WA6251.jpg',
+    image: 'https://i.postimg.cc/zv1JjBv8/IMG-20260908-WA4114.jpg',
     isNew: false,
     isFeatured: false
   },
 {
     id: 56,
-    name: 'pulseras triple y trenzada fina',
+    name: 'pulseras triple con bolitas',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/jd7rzLwn/IMG-20260826-WA6788.jpg',
+    image: 'https://i.postimg.cc/pdhRM8n9/IMG-20260908-WA3047.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -602,11 +602,11 @@ export const products: Product[] = [
   },
 {
     id: 58,
-    name: 'pulseras nocturnas',
+    name: 'pulseras negra',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/7ZNP2fdL/IMG-20260826-WA9375.jpg',
+    image: 'https://i.postimg.cc/L8hMjfvM/IMG-20260908-WA1442.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -622,11 +622,11 @@ export const products: Product[] = [
   },
 {
     id: 60,
-    name: 'pulseras susurro',
+    name: 'pulseras negra doble',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/x1sDQHBw/IMG-20260826-WA9823.jpg',
+    image: 'https://i.postimg.cc/1XykXN4B/IMG-20260908-WA0667.jpg',
     isNew: false,
     isFeatured: false
   },
