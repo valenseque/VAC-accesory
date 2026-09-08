@@ -107,7 +107,7 @@ export const products: Product[] = [
     price: 8000,
     material: 'Acero blanco',
     category: 'Pulseras',
-    image: 'https://drive.google.com/file/d/1Y38O-xNPF6e1RZL0hmHmgYpGRZPawiZN/view?usp=sharing',
+    image: 'https://i.postimg.cc/d1qRwkCX/file-000000007b98820eb355040a22ee38fe.png',
     isNew: true,
     isFeatured: true
   },
