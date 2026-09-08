@@ -81,28 +81,138 @@ export const products: Product[] = [
   // ========= COLLARES =========
   {
     id: 4,
-    name: 'Collar Perlas Clásicas',
+    name: 'Collar simple',
     price: 1800,
     material: 'Acero Quirúrgico',
     category: 'Collares',
-    image: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4e8b?w=400&h=400&fit=crop',
+    image: 'https://i.postimg.cc/TYzs8CK6/IMG-20260826-WA1956.jpg',
     isNew: false,
     isFeatured: true
   },
   {
     id: 5,
-    name: 'Collar Corazón Dorado',
+    name: 'Collar Con bolitas',
     price: 1450,
     material: 'Acero Dorado',
     category: 'Collares',
-    image: 'https://images.unsplash.com/photo-1599643477877-530eb83f833e?w=400&h=400&fit=crop',
+    image: 'https://i.postimg.cc/8cqZSzPF/IMG-20260826-WA3714.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 6,
+    name: 'Collar estilo van cleef',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/QtzbQd7w/IMG-20260826-WA5781.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 7,
+    name: 'Collar puntillismo',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/gj9M9001/IMG-20260826-WA5732.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 8,
+    name: 'Collar corazon brillante',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/Ssc6MfyD/IMG-20260826-WA6095.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 9,
+    name: 'Collar corazon grande',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/wjPL4GMG/IMG-20260826-WA6791.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 10,
+    name: 'Collar cero blanco',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/FK3dWF2X/IMG-20260826-WA7983.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 11,
+    name: 'Collar trenzado',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/L65qd3rg/IMG-20260826-WA8005.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 12,
+    name: 'Collar corazon arcoiris',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/FK3dWF2X/IMG-20260826-WA7983.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 13,
+    name: 'Collar estrella lunar',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/W4wpqdB0/IMG-20260826-WA8927.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 14,
+    name: 'Collar san benito',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/5tbbJxXy/IMG-20260826-WA9070.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 15,
+    name: 'combo estrellado',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/QCWR5PBr/IMG-20260826-WA9266.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 16,
+    name: 'combo doble vinculo',
+    price: 1450,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/x1sDQHBw/IMG-20260826-WA9823.jpg',
     isNew: true,
     isFeatured: false
   },
 
   // ========= PULSERAS =========
   {
-    id: 6,
+    id: 17,
     name: 'pulsera corazon azul',
     price: 8000,
     material: 'Acero blanco',
@@ -112,7 +222,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 7,
+    id: 18,
     name: 'pulsera geometrica',
     price: 8100,
     material: 'Acero Blanco',
@@ -122,7 +232,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 8,
+    id: 19,
     name: 'pulsera estilo van cleef plateada',
     price: 8100,
     material: 'Acero Blanco',
@@ -132,7 +242,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 9,
+    id: 20,
     name: 'pulsera rio de estrellas',
     price: 8100,
     material: 'Acero Blanco',
@@ -142,7 +252,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 10,
+    id: 21,
     name: 'pulsera eterna',
     price: 8100,
     material: 'Acero Blanco',
@@ -152,7 +262,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 11,
+    id: 22,
     name: 'multiples pulseras gruesas',
     price: 8100,
     material: 'Acero Blanco',
@@ -162,7 +272,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 12,
+    id: 23,
     name: 'pulsera corazon gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -172,7 +282,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 13,
+    id: 24,
     name: 'pulsera triple y arcoiris',
     price: 8100,
     material: 'Acero Blanco',
@@ -182,7 +292,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 14,
+    id: 25,
     name: 'pulsera lunar gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -192,7 +302,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 15,
+    id: 26,
     name: 'pulsera cuarzo',
     price: 8100,
     material: 'Acero Blanco',
@@ -202,7 +312,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 16,
+    id: 27,
     name: 'pulseras eclipse',
     price: 8100,
     material: 'Acero Blanco',
@@ -212,7 +322,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 17,
+    id: 28,
     name: 'pulseras eclipse',
     price: 8100,
     material: 'Acero Blanco',
@@ -222,7 +332,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 18,
+    id: 29,
     name: 'pulseras triple y trenzada fina',
     price: 8100,
     material: 'Acero Blanco',
@@ -232,7 +342,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 19,
+    id: 30,
     name: 'pulseras genesis',
     price: 8100,
     material: 'Acero Blanco',
@@ -242,7 +352,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 20,
+    id: 31,
     name: 'pulseras nocturnas',
     price: 8100,
     material: 'Acero Blanco',
@@ -252,7 +362,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 21,
+    id: 32,
     name: 'pulsera corazon de hielo',
     price: 8100,
     material: 'Acero Blanco',
@@ -262,7 +372,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 22,
+    id: 33,
     name: 'pulseras susurro',
     price: 8100,
     material: 'Acero Blanco',
@@ -274,7 +384,7 @@ export const products: Product[] = [
 
   // ========= ARETES =========
   {
-    id: 23,
+    id: 34,
     name: 'Aretes Zafiro Real',
     price: 1200,
     material: 'Acero Blanco',
@@ -284,7 +394,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 24,
+    id: 35,
     name: 'Aretes Gota de Luna',
     price: 890,
     material: 'Acero Quirúrgico',
