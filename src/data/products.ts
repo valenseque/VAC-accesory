@@ -471,7 +471,7 @@ export const products: Product[] = [
 
   // ========= PULSERAS =========
   {
-    id: p44,
+    id: 44,
     name: 'pulsera corazon azul',
     price: 8000,
     material: 'Acero blanco',
@@ -481,7 +481,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: p45,
+    id: 45,
     name: 'pulsera geometrica',
     price: 8100,
     material: 'Acero Blanco',
@@ -491,7 +491,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p46,
+    id: 46,
     name: 'pulsera estilo van cleef plateada',
     price: 8100,
     material: 'Acero Blanco',
@@ -501,7 +501,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p47,
+    id: 47,
     name: 'pulsera rio de estrellas',
     price: 8100,
     material: 'Acero Blanco',
@@ -511,7 +511,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p48,
+    id: 48,
     name: 'pulsera eterna',
     price: 8100,
     material: 'Acero Blanco',
@@ -521,7 +521,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p49,
+    id: 49,
     name: 'pulsera triple gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -531,7 +531,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p50,
+    id: 50,
     name: 'pulsera corazon gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -541,7 +541,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p51,
+    id: 51,
     name: 'pulsera pretzel',
     price: 8100,
     material: 'Acero Blanco',
@@ -551,7 +551,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p52,
+    id: 52,
     name: 'pulsera lunar gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -561,7 +561,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p53,
+    id: 53,
     name: 'pulsera cuarzo',
     price: 8100,
     material: 'Acero Blanco',
@@ -571,7 +571,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p55,
+    id: 55,
     name: 'pulsera corazon negro',
     price: 8100,
     material: 'Acero Blanco',
@@ -581,7 +581,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p56,
+    id: 56,
     name: 'pulseras triple con bolitas',
     price: 8100,
     material: 'Acero Blanco',
@@ -591,7 +591,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p57,
+    id: 57,
     name: 'pulseras genesis',
     price: 8100,
     material: 'Acero Blanco',
@@ -601,7 +601,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p58,
+    id: 58,
     name: 'pulseras negra',
     price: 8100,
     material: 'Acero Blanco',
@@ -611,7 +611,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p59,
+    id: 59,
     name: 'pulsera corazon de hielo',
     price: 8100,
     material: 'Acero Blanco',
@@ -621,7 +621,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p60,
+    id: 60,
     name: 'pulseras negra doble',
     price: 8100,
     material: 'Acero Blanco',
@@ -631,7 +631,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p61,
+    id: 61,
     name: 'pulseras trenza gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -641,7 +641,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p62,
+    id: 62,
     name: 'pulseras bolas gruesas',
     price: 8100,
     material: 'Acero Blanco',
@@ -651,7 +651,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p63,
+    id: 63,
     name: 'pulseras lineas gruesas',
     price: 8100,
     material: 'Acero Blanco',
@@ -661,7 +661,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p64,
+    id: 64,
     name: 'pulseras bolitas simples',
     price: 8100,
     material: 'Acero Blanco',
@@ -671,7 +671,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p65,
+    id: 65,
     name: 'pulseras bolas cuarzo',
     price: 8100,
     material: 'Acero Blanco',
@@ -681,7 +681,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: p66,
+    id: 66,
     name: 'pulseras negra ojo',
     price: 8100,
     material: 'Acero Blanco',
@@ -693,7 +693,7 @@ export const products: Product[] = [
 
   // ========= ARETES =========
   {
-    id: 61,
+    id: 67,
     name: 'Aros mariposa',
     price: 1200,
     material: 'Acero Blanco',
@@ -703,7 +703,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 62,
+    id: 68,
     name: 'Aros ice',
     price: 890,
     material: 'Acero Blanco',
@@ -713,7 +713,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 63,
+    id: 69,
     name: 'Aros abiertos',
     price: 890,
     material: 'Acero Blanco',
@@ -723,7 +723,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 64,
+    id: 70,
     name: 'Aros corazon de piedra',
     price: 890,
     material: 'Acero Blanco',
@@ -733,7 +733,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 65,
+    id: 71,
     name: 'Aros de corazon',
     price: 890,
     material: 'Acero Blanco',
@@ -743,7 +743,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 66,
+    id: 72,
     name: 'Aros pizza',
     price: 890,
     material: 'Acero Blanco',
@@ -753,7 +753,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 67,
+    id: 73,
     name: 'Aros argolla',
     price: 890,
     material: 'Acero Blanco',
@@ -763,7 +763,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 68,
+    id: 74,
     name: 'Aros mariquita',
     price: 890,
     material: 'Acero Blanco',
@@ -773,7 +773,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 69,
+    id: 75,
     name: 'Aros corazon aircoiris',
     price: 890,
     material: 'Acero Dorado',
@@ -783,7 +783,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 70,
+    id: 76,
     name: 'Aros mini mariposa',
     price: 890,
     material: 'Acero Blanco',
@@ -793,7 +793,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 71,
+    id: 77,
     name: 'Aros cero arcoiris',
     price: 890,
     material: 'Acero Dorado',
@@ -803,7 +803,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 72,
+    id: 78,
     name: 'Aros estrella de mar',
     price: 890,
     material: 'Acero Dorado',
@@ -813,7 +813,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 73,
+    id: 79,
     name: 'Aros estrellado dorado',
     price: 890,
     material: 'Acero Dorado',
@@ -823,7 +823,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 74,
+    id: 80,
     name: 'Aros gotas dorado',
     price: 890,
     material: 'Acero Dorado',
@@ -833,7 +833,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 75,
+    id: 81,
     name: 'Aros gotas de color',
     price: 890,
     material: 'Acero Dorado',
@@ -843,7 +843,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 76,
+    id: 82,
     name: 'Aros argollas gruesas',
     price: 890,
     material: 'Acero Dorado',
