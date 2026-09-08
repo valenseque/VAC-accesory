@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { Link } from 'react-router-dom'
 import { Search, SlidersHorizontal, Heart, ShoppingBag, MessageCircle } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { products, categories, getProductsByCategory } from '../data/products'
@@ -26,6 +25,7 @@ const Products = () => {
 
   return (
     <div className="min-h-screen bg-joyeria-crema">
+      {/* Header */}
       <div className="bg-joyeria-beige py-12 md:py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl md:text-4xl font-serif font-bold text-joyeria-oscuro mb-4">
@@ -37,9 +37,11 @@ const Products = () => {
         </div>
       </div>
 
+      {/* Filters Bar */}
       <div className="sticky top-16 md:top-20 z-40 bg-white border-b border-joyeria-borde shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+            {/* Search */}
             <div className="relative flex-grow max-w-md">
               <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-joyeria-textoClaro" />
               <input
@@ -51,6 +53,7 @@ const Products = () => {
               />
             </div>
 
+            {/* Desktop Filters */}
             <div className="hidden md:flex items-center gap-4">
               <div className="flex items-center gap-2">
                 {categories.map(category => (
@@ -79,6 +82,7 @@ const Products = () => {
               </select>
             </div>
 
+            {/* Mobile Filter Button */}
             <button
               className="md:hidden flex items-center gap-2 px-4 py-2 bg-joyeria-crema border border-joyeria-borde rounded-md"
               onClick={() => setShowFilters(!showFilters)}
@@ -88,6 +92,7 @@ const Products = () => {
             </button>
           </div>
 
+          {/* Mobile Filters */}
           <AnimatePresence>
             {showFilters && (
               <motion.div
@@ -126,6 +131,7 @@ const Products = () => {
         </div>
       </div>
 
+      {/* Products Grid */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <p className="text-joyeria-textoClaro mb-6">
           Mostrando {filteredProducts.length} productos
@@ -139,10 +145,7 @@ const Products = () => {
               transition={{ delay: index * 0.05 }}
               className="group"
             >
-              <Link
-                to={`/producto/${product.id}`}
-                className="block relative overflow-hidden rounded-lg bg-white shadow-sm hover:shadow-lg transition-shadow duration-300"
-              >
+              <div className="relative overflow-hidden rounded-lg bg-white shadow-sm hover:shadow-lg transition-shadow duration-300">
                 <div className="aspect-square overflow-hidden relative">
                   <img
                     src={product.image}
@@ -155,16 +158,10 @@ const Products = () => {
                     </span>
                   )}
                   <div className="absolute top-3 right-3 flex flex-col gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <button 
-                      onClick={(e) => { e.preventDefault(); }}
-                      className="p-2 bg-white rounded-full shadow-md hover:bg-joyeria-crema transition-colors"
-                    >
+                    <button className="p-2 bg-white rounded-full shadow-md hover:bg-joyeria-crema transition-colors">
                       <Heart className="w-4 h-4 text-joyeria-oscuro" />
                     </button>
-                    <button 
-                      onClick={(e) => { e.preventDefault(); }}
-                      className="p-2 bg-white rounded-full shadow-md hover:bg-joyeria-crema transition-colors"
-                    >
+                    <button className="p-2 bg-white rounded-full shadow-md hover:bg-joyeria-crema transition-colors">
                       <ShoppingBag className="w-4 h-4 text-joyeria-oscuro" />
                     </button>
                   </div>
@@ -182,15 +179,15 @@ const Products = () => {
                   <p className="text-lg font-semibold text-joyeria-oscuro mt-2">
                     ${product.price.toLocaleString()}
                   </p>
+                  <button
+                    onClick={() => handleConsult(product.name)}
+                    className="mt-3 w-full flex items-center justify-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-white font-medium rounded-md hover:opacity-90 transition-opacity"
+                  >
+                    <MessageCircle className="w-4 h-4" />
+                    Consultá
+                  </button>
                 </div>
-              </Link>
-              <button
-                onClick={(e) => { e.preventDefault(); handleConsult(product.name); }}
-                className="mt-3 w-full flex items-center justify-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-white font-medium rounded-md hover:opacity-90 transition-opacity"
-              >
-                <MessageCircle className="w-4 h-4" />
-                Consultá
-              </button>
+              </div>
             </motion.div>
           ))}
         </div>

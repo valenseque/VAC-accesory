@@ -13,10 +13,10 @@ const Home = () => {
   const featuredProducts = getFeaturedProducts()
 
   const categoryImages: Record<string, string> = {
-    'Anillos': 'https://i.postimg.cc/SNJYwb5K/IMG-20260902-WA3901.jpg',
-    'Collares': 'https://i.postimg.cc/QCWR5PBr/IMG-20260826-WA9266.jpg',
-    'Pulseras': 'https://i.postimg.cc/c6qr12j7/file-00000000b8b0820eb496cccf023de5a3.png',
-    'Aretes': 'https://i.postimg.cc/FHkcJXVQ/IMG-20260902-WA0832.jpg'
+    'Anillos': 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=300&h=400&fit=crop',
+    'Collares': 'https://images.unsplash.com/photo-1599643477877-530eb83f833e?w=300&h=400&fit=crop',
+    'Pulseras': 'https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=300&h=400&fit=crop',
+    'Aretes': 'https://images.unsplash.com/photo-1630019852942-f8920296fa05?w=300&h=400&fit=crop'
   }
 
   const categoryCounts = categories.slice(1).map(cat => ({
@@ -37,6 +37,7 @@ const Home = () => {
 
   return (
     <div className="overflow-hidden">
+      {/* Hero Section */}
       <section className="relative min-h-[80vh] flex items-center bg-gradient-to-br from-joyeria-crema via-joyeria-beige to-joyeria-arena">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -91,6 +92,7 @@ const Home = () => {
         </div>
       </section>
 
+      {/* Categories Section */}
       <section className="py-16 md:py-24 bg-joyeria-beige">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div
@@ -118,7 +120,6 @@ const Home = () => {
               >
                 <Link
                   to="/productos"
-                  state={{ category: category.name }}
                   className="group relative block overflow-hidden rounded-lg aspect-[3/4]"
                 >
                   <img
@@ -138,6 +139,7 @@ const Home = () => {
         </div>
       </section>
 
+      {/* Featured Products */}
       <section className="py-16 md:py-24 bg-joyeria-crema">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <motion.div
@@ -164,10 +166,7 @@ const Home = () => {
                 transition={{ delay: index * 0.1 }}
                 className="group"
               >
-                <Link
-                  to={`/producto/${product.id}`}
-                  className="block relative overflow-hidden rounded-lg bg-white shadow-sm hover:shadow-lg transition-shadow duration-300"
-                >
+                <div className="relative overflow-hidden rounded-lg bg-white shadow-sm hover:shadow-lg transition-shadow duration-300">
                   <div className="aspect-square overflow-hidden">
                     <img
                       src={product.image}
@@ -188,15 +187,15 @@ const Home = () => {
                     <p className="text-lg font-semibold text-joyeria-oscuro mt-2">
                       ${product.price.toLocaleString()}
                     </p>
+                    <button
+                      onClick={() => handleConsult(product.name)}
+                      className="mt-3 w-full flex items-center justify-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-white font-medium rounded-md hover:opacity-90 transition-opacity"
+                    >
+                      <MessageCircle className="w-4 h-4" />
+                      Consultá
+                    </button>
                   </div>
-                </Link>
-                <button
-                  onClick={(e) => { e.preventDefault(); handleConsult(product.name); }}
-                  className="mt-3 w-full flex items-center justify-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-white font-medium rounded-md hover:opacity-90 transition-opacity"
-                >
-                  <MessageCircle className="w-4 h-4" />
-                  Consultá
-                </button>
+                </div>
               </motion.div>
             ))}
           </div>
@@ -212,6 +211,7 @@ const Home = () => {
         </div>
       </section>
 
+      {/* Features Section - Centrado con 3 elementos */}
       <section className="py-16 md:py-24 bg-joyeria-arena">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-4xl mx-auto">
@@ -239,6 +239,7 @@ const Home = () => {
         </div>
       </section>
 
+      {/* CTA Section */}
       <section className="py-16 md:py-24 bg-joyeria-oscuro text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.div
