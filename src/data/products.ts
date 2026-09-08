@@ -151,10 +151,130 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
+{
+    id: 11,
+    name: 'multiples pulseras gruesas',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/pV5SS326/IMG-20260826-WA2487.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 12,
+    name: 'pulsera corazon gruesa',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/QxrfytYd/IMG-20260826-WA3235.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 13,
+    name: 'pulsera triple y arcoiris',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/zvwFrCtM/IMG-20260826-WA3427.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 14,
+    name: 'pulsera lunar gruesa',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/W116BJGs/IMG-20260826-WA5004.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 15,
+    name: 'pulsera cuarzo',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/pr1Xy76k/IMG-20260826-WA5393.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 16,
+    name: 'pulseras eclipse',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/T3nfXpfn/IMG-20260826-WA6251.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 17,
+    name: 'pulseras eclipse',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/T3nfXpfn/IMG-20260826-WA6251.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 18,
+    name: 'pulseras triple y trenzada fina',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/jd7rzLwn/IMG-20260826-WA6788.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 19,
+    name: 'pulseras genesis',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/Th8FkJLh/IMG-20260826-WA8991.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 20,
+    name: 'pulseras nocturnas',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/7ZNP2fdL/IMG-20260826-WA9375.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 21,
+    name: 'pulsera corazon de hielo',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/fTfQH1K1/IMG-20260826-WA9671.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 22,
+    name: 'pulseras susurro',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/x1sDQHBw/IMG-20260826-WA9823.jpg',
+    isNew: false,
+    isFeatured: false
+  },
 
   // ========= ARETES =========
   {
-    id: 11,
+    id: 23,
     name: 'Aretes Zafiro Real',
     price: 1200,
     material: 'Acero Blanco',
@@ -164,7 +284,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 12,
+    id: 24,
     name: 'Aretes Gota de Luna',
     price: 890,
     material: 'Acero Quirúrgico',
