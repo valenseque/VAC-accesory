@@ -341,7 +341,7 @@ export const products: Product[] = [
   {
     id: 31,
     name: 'Collar simple',
-    price: 1800,
+    price: 4000,
     material: 'Acero Quirúrgico',
     category: 'Collares',
     image: 'https://i.postimg.cc/TYzs8CK6/IMG-20260826-WA1956.jpg',
@@ -351,8 +351,8 @@ export const products: Product[] = [
 {
     id: 32,
     name: 'Collar Con bolitas',
-    price: 1450,
-    material: 'Acero Dorado',
+    price: 8000,
+    material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/8cqZSzPF/IMG-20260826-WA3714.jpg',
     isNew: true,
@@ -361,8 +361,8 @@ export const products: Product[] = [
 {
     id: 33,
     name: 'Collar estilo van cleef',
-    price: 1450,
-    material: 'Acero Dorado',
+    price: 14000,
+    material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/QtzbQd7w/IMG-20260826-WA5781.jpg',
     isNew: true,
@@ -371,8 +371,8 @@ export const products: Product[] = [
 {
     id: 34,
     name: 'Collar puntillismo',
-    price: 1450,
-    material: 'Acero Dorado',
+    price: 4000,
+    material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/gj9M9001/IMG-20260826-WA5732.jpg',
     isNew: true,
@@ -381,27 +381,17 @@ export const products: Product[] = [
 {
     id: 35,
     name: 'Collar corazon brillante',
-    price: 1450,
-    material: 'Acero Dorado',
+    price: 9000,
+    material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/Ssc6MfyD/IMG-20260826-WA6095.jpg',
     isNew: true,
     isFeatured: false
   },
 {
-    id: 36,
-    name: 'Collar corazon grande',
-    price: 1450,
-    material: 'Acero Dorado',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/wjPL4GMG/IMG-20260826-WA6791.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
     id: 37,
     name: 'Collar cero blanco',
-    price: 1450,
+    price: 12000,
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/FK3dWF2X/IMG-20260826-WA7983.jpg',
@@ -411,7 +401,7 @@ export const products: Product[] = [
 {
     id: 38,
     name: 'Collar trenzado',
-    price: 1450,
+    price: 4000,
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/L65qd3rg/IMG-20260826-WA8005.jpg',
@@ -421,17 +411,17 @@ export const products: Product[] = [
 {
     id: 39,
     name: 'Collar corazon arcoiris',
-    price: 1450,
+    price: 12000,
     material: 'Acero Dorado',
     category: 'Collares',
-    image: 'https://i.postimg.cc/FK3dWF2X/IMG-20260826-WA7983.jpg',
+    image: 'https://i.postimg.cc/HnhkWFfK/IMG-20260826-WA8066.jpg',
     isNew: true,
     isFeatured: false
   },
 {
     id: 40,
     name: 'Collar estrella lunar',
-    price: 1450,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/W4wpqdB0/IMG-20260826-WA8927.jpg',
@@ -441,30 +431,10 @@ export const products: Product[] = [
 {
     id: 41,
     name: 'Collar san benito',
-    price: 1450,
+    price: 10000,
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/5tbbJxXy/IMG-20260826-WA9070.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 42,
-    name: 'combo estrellado',
-    price: 1450,
-    material: 'Acero Dorado',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/QCWR5PBr/IMG-20260826-WA9266.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 43,
-    name: 'combo doble vinculo',
-    price: 1450,
-    material: 'Acero Dorado',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/x1sDQHBw/IMG-20260826-WA9823.jpg',
     isNew: true,
     isFeatured: false
   },
