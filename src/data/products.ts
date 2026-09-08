@@ -49,38 +49,328 @@ export const products: Product[] = [
   // ========= ANILLOS =========
   {
     id: 1,
-    name: 'Anillo perla roja',
+    name: 'Anillo áureo',
     price: 2500,
-    material: 'acero quirurjico',
+    material: 'acero blanco',
     category: 'Anillos',
-    image: 'https://drive.google.com/file/d/1D3bUk9zcqfXbK29SDNVDO1bXIcc4_Ue3/view?usp=drive_link',
+    image: 'https://i.postimg.cc/TYVh820y/IMG-20260826-174817083-HDR-AE.jpg',
     isNew: true,
     isFeatured: true
   },
   {
     id: 2,
-    name: 'Anillo Solitario Brillante',
+    name: 'Anillo sombrio',
     price: 3200,
     material: 'Plata de Ley',
     category: 'Anillos',
-    image: 'https://drive.google.com/file/d/1z3aiT9xXnqb_MKV1DFXdQz_6ZEr0JIqk/view',
+    image: 'https://i.postimg.cc/7ZL4BqQ1/IMG-20260826-WA0226.jpg',
     isNew: false,
     isFeatured: false
   },
   {
     id: 3,
-    name: 'Anillo Solitario Brillante',
+    name: 'Anillo moño',
     price: 3200,
     material: 'Plata de Ley',
     category: 'Anillos',
-    image: 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=400&h=400&fit=crop',
+    image: 'https://i.postimg.cc/jdxY5sKr/IMG-20260826-WA0257.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 4,
+    name: 'Anillo perla',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/cHyVNWXL/IMG-20260826-WA1004.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 5,
+    name: 'Anillos alianza',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/YSgsRVkf/IMG-20260826-WA1630.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 6,
+    name: 'Anillos alianza',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/YSgsRVkf/IMG-20260826-WA1630.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 7,
+    name: 'Anillo bruma',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/yNFLcZy8/IMG-20260826-WA2070.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 8,
+    name: 'Anillo camino de estrellas',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/25fwk5Rc/IMG-20260826-WA3128.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 9,
+    name: 'Anillo margarita',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/CxbGQVBm/IMG-20260826-WA3621.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 10,
+    name: 'Anillo flor',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/mk09mdTp/IMG-20260826-WA4350.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 11,
+    name: 'Anillo abierto corazón',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/T3jbcqFV/IMG-20260826-WA4550.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 12,
+    name: 'Anillo tres puntos',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/wjFXpQ2s/IMG-20260826-WA4886.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 13,
+    name: 'Anillo bolitas',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/MHyBr7Hr/IMG-20260826-WA4901.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 14,
+    name: 'Anillo vórtice',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/G2DTHFFK/IMG-20260826-WA4923.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 15,
+    name: 'Anillo ébano',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/ZYcKjs58/IMG-20260826-WA5924.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 16,
+    name: 'Anillo perlas',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/yN4H70NC/IMG-20260826-WA6065.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 17,
+    name: 'Anillo misterio',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/9M15PSYQ/IMG-20260826-WA6459.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 18,
+    name: 'Anillo diamante',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/CL9y4bkR/IMG-20260826-WA8351.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 19,
+    name: 'Anillo ónix',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/pLKSY4PB/IMG-20260826-WA6824.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 20,
+    name: 'Anillo vigilia',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/NGVPhBM1/IMG-20260826-WA8378.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 21,
+    name: 'Anillo sello',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/VsrP07bf/IMG-20260826-WA8900.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 22,
+    name: 'Anillo ramas',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/pT37BH5s/IMG-20260826-WA9571.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 23,
+    name: 'Anillo tiara',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/RV78w2S2/IMG-20260826-WA9689.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 24,
+    name: 'Anillos tres aguas',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/hPBZ4MLX/IMG-20260902-WA1738.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 24,
+    name: 'Anillos corazones',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/hPBZ4MLX/IMG-20260902-WA1738.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 25,
+    name: 'Anillos arcoiris',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/wByQQs5x/IMG-20260902-WA4910.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 26,
+    name: 'Anillos reina',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Dwmr7bM4/IMG-20260902-WA5776.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 27,
+    name: 'Anillos redondos',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/L5CJWxRy/IMG-20260902-WA9966.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 28,
+    name: 'Anillos redondos',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/L5CJWxRy/IMG-20260902-WA9966.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 29,
+    name: 'Anillos de piedra',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/rFDsmCqx/IMG-20260903-WA2354.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 30,
+    name: 'Anillos corona de invierno',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Y0G7pRQh/IMG-20260903-WA7994.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 31,
+    name: 'Anillos de plata',
+    price: 3200,
+    material: 'Plata de Ley',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/wj09Q1xx/IMG-20260903-WA9354.jpg',
     isNew: false,
     isFeatured: false
   },
 
   // ========= COLLARES =========
   {
-    id: 4,
+    id: 32,
     name: 'Collar simple',
     price: 1800,
     material: 'Acero Quirúrgico',
@@ -90,7 +380,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 5,
+    id: 33,
     name: 'Collar Con bolitas',
     price: 1450,
     material: 'Acero Dorado',
@@ -100,7 +390,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 6,
+    id: 34,
     name: 'Collar estilo van cleef',
     price: 1450,
     material: 'Acero Dorado',
@@ -110,7 +400,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 7,
+    id: 35,
     name: 'Collar puntillismo',
     price: 1450,
     material: 'Acero Dorado',
@@ -120,7 +410,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 8,
+    id: 36,
     name: 'Collar corazon brillante',
     price: 1450,
     material: 'Acero Dorado',
@@ -130,7 +420,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 9,
+    id: 37,
     name: 'Collar corazon grande',
     price: 1450,
     material: 'Acero Dorado',
@@ -140,7 +430,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 10,
+    id: 38,
     name: 'Collar cero blanco',
     price: 1450,
     material: 'Acero Dorado',
@@ -150,7 +440,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 11,
+    id: 39,
     name: 'Collar trenzado',
     price: 1450,
     material: 'Acero Dorado',
@@ -160,7 +450,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 12,
+    id: 40,
     name: 'Collar corazon arcoiris',
     price: 1450,
     material: 'Acero Dorado',
@@ -170,7 +460,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 13,
+    id: 41,
     name: 'Collar estrella lunar',
     price: 1450,
     material: 'Acero Dorado',
@@ -180,7 +470,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 14,
+    id: 42,
     name: 'Collar san benito',
     price: 1450,
     material: 'Acero Dorado',
@@ -190,7 +480,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 15,
+    id: 43,
     name: 'combo estrellado',
     price: 1450,
     material: 'Acero Dorado',
@@ -200,7 +490,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 16,
+    id: 44,
     name: 'combo doble vinculo',
     price: 1450,
     material: 'Acero Dorado',
@@ -212,7 +502,7 @@ export const products: Product[] = [
 
   // ========= PULSERAS =========
   {
-    id: 17,
+    id: 45,
     name: 'pulsera corazon azul',
     price: 8000,
     material: 'Acero blanco',
@@ -222,7 +512,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 18,
+    id: 46,
     name: 'pulsera geometrica',
     price: 8100,
     material: 'Acero Blanco',
@@ -232,7 +522,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 19,
+    id: 47,
     name: 'pulsera estilo van cleef plateada',
     price: 8100,
     material: 'Acero Blanco',
@@ -242,7 +532,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 20,
+    id: 48,
     name: 'pulsera rio de estrellas',
     price: 8100,
     material: 'Acero Blanco',
@@ -252,7 +542,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 21,
+    id: 49,
     name: 'pulsera eterna',
     price: 8100,
     material: 'Acero Blanco',
@@ -262,7 +552,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 22,
+    id: 50,
     name: 'multiples pulseras gruesas',
     price: 8100,
     material: 'Acero Blanco',
@@ -272,7 +562,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 23,
+    id: 51,
     name: 'pulsera corazon gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -282,7 +572,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 24,
+    id: 52,
     name: 'pulsera triple y arcoiris',
     price: 8100,
     material: 'Acero Blanco',
@@ -292,7 +582,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 25,
+    id: 53,
     name: 'pulsera lunar gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -302,7 +592,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 26,
+    id: 54,
     name: 'pulsera cuarzo',
     price: 8100,
     material: 'Acero Blanco',
@@ -312,7 +602,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 27,
+    id: 55,
     name: 'pulseras eclipse',
     price: 8100,
     material: 'Acero Blanco',
@@ -322,7 +612,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 28,
+    id: 56,
     name: 'pulseras eclipse',
     price: 8100,
     material: 'Acero Blanco',
@@ -332,7 +622,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 29,
+    id: 57,
     name: 'pulseras triple y trenzada fina',
     price: 8100,
     material: 'Acero Blanco',
@@ -342,7 +632,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 30,
+    id: 58,
     name: 'pulseras genesis',
     price: 8100,
     material: 'Acero Blanco',
@@ -352,7 +642,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 31,
+    id: 59,
     name: 'pulseras nocturnas',
     price: 8100,
     material: 'Acero Blanco',
@@ -362,7 +652,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 32,
+    id: 60,
     name: 'pulsera corazon de hielo',
     price: 8100,
     material: 'Acero Blanco',
@@ -372,7 +662,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 33,
+    id: 61,
     name: 'pulseras susurro',
     price: 8100,
     material: 'Acero Blanco',
@@ -384,7 +674,7 @@ export const products: Product[] = [
 
   // ========= ARETES =========
   {
-    id: 34,
+    id: 62,
     name: 'Aretes Zafiro Real',
     price: 1200,
     material: 'Acero Blanco',
@@ -394,7 +684,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 35,
+    id: 63,
     name: 'Aretes Gota de Luna',
     price: 890,
     material: 'Acero Quirúrgico',
