@@ -772,16 +772,6 @@ export const products: Product[] = [
   },
 {
     id: 75,
-    name: 'pulsera estrella lunar',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/xTfWvHgf/IMG-20260908-WA3623.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 75,
     name: 'pulsera trebol plateada',
     price: 8100,
     material: 'Acero Blanco',
