@@ -13,10 +13,10 @@ const Home = () => {
   const featuredProducts = getFeaturedProducts()
 
   const categoryImages: Record<string, string> = {
-    'Anillos': 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=300&h=400&fit=crop',
-    'Collares': 'https://images.unsplash.com/photo-1599643477877-530eb83f833e?w=300&h=400&fit=crop',
-    'Pulseras': 'https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=300&h=400&fit=crop',
-    'Aretes': 'https://images.unsplash.com/photo-1630019852942-f8920296fa05?w=300&h=400&fit=crop'
+    'Anillos': 'https://i.postimg.cc/SNJYwb5K/IMG-20260902-WA3901.jpg',
+    'Collares': 'https://i.postimg.cc/QCWR5PBr/IMG-20260826-WA9266.jpg',
+    'Pulseras': 'https://i.postimg.cc/c6qr12j7/file-00000000b8b0820eb496cccf023de5a3.png',
+    'Aretes': 'https://i.postimg.cc/FHkcJXVQ/IMG-20260902-WA0832.jpg'
   }
 
   const categoryCounts = categories.slice(1).map(cat => ({
