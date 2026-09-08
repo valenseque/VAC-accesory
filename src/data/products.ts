@@ -864,7 +864,7 @@ export const products: Product[] = [
   },
 {
     id: 84,
-    name: 'Aros corazon aircoiris',
+    name: 'Aros corazon piedra aircoiris',
     price: 890,
     material: 'Acero Dorado',
     category: 'Aretes',
@@ -939,6 +939,186 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/fybzVPrz/IMG-20260903-WA3871.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 92,
+    name: 'Aros corazon arcoiris',
+    price: 890,
+    material: 'Acero Dorado',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/wMp1vHKY/IMG-20260902-WA1426.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 93,
+    name: 'Aros piedras rojas',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/SNQKtgkd/IMG-20260903-WA0081.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 94,
+    name: 'Aros moño brilalnte',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/J0pRLWRw/IMG-20260903-WA1449.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 95,
+    name: 'Aros de colores mini',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/Sx2kw55r/IMG-20260903-WA2753.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 96,
+    name: 'Aros vuelo de colibri',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/4dZGH3dG/IMG-20260903-WA4061.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 97,
+    name: 'Aros serpiente verde',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/sxNbmf3b/IMG-20260903-WA6611.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 98,
+    name: 'Aros argolla dorada',
+    price: 890,
+    material: 'Acero Dorado',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/7Lnccnxd/IMG-20260903-WA8513.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 99,
+    name: 'Aros reliquia',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/LsDCv4Tk/IMG-20260903-WA8559(1).jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 100,
+    name: 'Aros argolla con rombos',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/T3RHbWjh/IMG-20260908-WA0449.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 101,
+    name: 'Aros mosaico',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/VvqDrYdD/IMG-20260908-WA2811.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 102,
+    name: 'Aros gancho dorados',
+    price: 890,
+    material: 'Acero Dorado',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/52NnyW1v/IMG-20260908-WA3208.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 103,
+    name: 'Aros forja',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/WpGn711r/IMG-20260908-WA3806.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 104,
+    name: 'Aros U dorados',
+    price: 890,
+    material: 'Acero Dorado',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/cHQQTF08/IMG-20260908-WA4993.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 105,
+    name: 'Aros perla violeta',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/TYknkLM5/IMG-20260908-WA7144.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 106,
+    name: 'Aros atardecer',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/FRQSf0c6/IMG-20260908-WA9065.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 107,
+    name: 'Aros estrella fugaz dorada',
+    price: 890,
+    material: 'Acero Dorado',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/pLh5qsBH/IMG-20260908-WA9466.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 108,
+    name: 'Aros alegria de cristal',
+    price: 890,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/x8pqPmJQ/IMG-20260908-WA9876.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 109,
+    name: 'Aros argollas doradas',
+    price: 890,
+    material: 'Acero Dorado',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/4NrxNspB/IMG-20260908-WA9939.jpg',
     isNew: true,
     isFeatured: false
   },
