@@ -77,7 +77,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 4,
     name: 'Anillo perla',
     price: 3000,
@@ -87,7 +87,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 5,
     name: 'Anillos alianza',
     price: 4000,
@@ -97,7 +97,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 7,
     name: 'Anillo bruma',
     price: 3000,
@@ -107,7 +107,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 8,
     name: 'Anillo camino de estrellas',
     price: 2500,
@@ -117,7 +117,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 9,
     name: 'Anillo margarita',
     price: 6000,
@@ -127,7 +127,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 10,
     name: 'Anillo flor',
     price: 6000,
@@ -137,7 +137,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 11,
     name: 'Anillo abierto corazón',
     price: 5000,
@@ -147,7 +147,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 12,
     name: 'Anillo tres puntos',
     price: 2500,
@@ -157,7 +157,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 13,
     name: 'Anillo bolitas',
     price: 2500,
@@ -167,7 +167,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 15,
     name: 'Anillo ébano',
     price: 2500,
@@ -177,7 +177,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 16,
     name: 'Anillo perlas',
     price: 3000,
@@ -187,7 +187,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 17,
     name: 'Anillo misterio',
     price: 4000,
@@ -197,7 +197,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 18,
     name: 'Anillo diamante',
     price: 2500,
@@ -207,7 +207,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 19,
     name: 'Anillo ónix',
     price: 2500,
@@ -217,7 +217,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 20,
     name: 'Anillo vigilia',
     price: 6000,
@@ -227,7 +227,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 21,
     name: 'Anillo sello',
     price: 10000,
@@ -237,7 +237,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 22,
     name: 'Anillo ramas',
     price: 1300,
@@ -247,7 +247,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 23,
     name: 'Anillo tiara',
     price: 2500,
@@ -257,7 +257,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 24,
     name: 'Anillos tres aguas',
     price: 24000,
@@ -267,7 +267,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 25,
     name: 'Anillos corazones',
     price: 24000,
@@ -277,7 +277,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 26,
     name: 'Anillos arcoiris',
     price: 6000,
@@ -287,7 +287,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 27,
     name: 'Anillos reina',
     price: 6000,
@@ -297,7 +297,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 28,
     name: 'Anillos redondos',
     price: 24000,
@@ -307,7 +307,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 30,
     name: 'Anillos de piedra',
     price: 6000,
@@ -317,7 +317,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 31,
     name: 'Anillos corona de invierno',
     price: 6000,
@@ -327,7 +327,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 32,
     name: 'Anillos triple',
     price: 9000,
@@ -359,7 +359,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 35,
     name: 'Collar estilo van cleef',
     price: 1450,
@@ -369,7 +369,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 36,
     name: 'Collar puntillismo',
     price: 1450,
@@ -379,7 +379,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 37,
     name: 'Collar corazon brillante',
     price: 1450,
@@ -389,7 +389,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 38,
     name: 'Collar corazon grande',
     price: 1450,
@@ -399,7 +399,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 39,
     name: 'Collar cero blanco',
     price: 1450,
@@ -409,7 +409,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 40,
     name: 'Collar trenzado',
     price: 1450,
@@ -419,7 +419,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 41,
     name: 'Collar corazon arcoiris',
     price: 1450,
@@ -429,7 +429,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 42,
     name: 'Collar estrella lunar',
     price: 1450,
@@ -439,7 +439,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 43,
     name: 'Collar san benito',
     price: 1450,
@@ -449,7 +449,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 44,
     name: 'combo estrellado',
     price: 1450,
@@ -459,7 +459,7 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
-{
+  {
     id: 45,
     name: 'combo doble vinculo',
     price: 1450,
@@ -491,7 +491,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 48,
     name: 'pulsera estilo van cleef plateada',
     price: 8100,
@@ -501,7 +501,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 49,
     name: 'pulsera rio de estrellas',
     price: 8100,
@@ -511,7 +511,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 50,
     name: 'pulsera eterna',
     price: 8100,
@@ -521,7 +521,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 51,
     name: 'multiples pulseras gruesas',
     price: 8100,
@@ -531,7 +531,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 52,
     name: 'pulsera corazon gruesa',
     price: 8100,
@@ -541,7 +541,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 53,
     name: 'pulsera triple y arcoiris',
     price: 8100,
@@ -551,7 +551,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 54,
     name: 'pulsera lunar gruesa',
     price: 8100,
@@ -561,7 +561,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 55,
     name: 'pulsera cuarzo',
     price: 8100,
@@ -571,7 +571,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 56,
     name: 'pulseras eclipse',
     price: 8100,
@@ -581,7 +581,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 57,
     name: 'pulseras eclipse',
     price: 8100,
@@ -591,7 +591,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 58,
     name: 'pulseras triple y trenzada fina',
     price: 8100,
@@ -601,7 +601,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 59,
     name: 'pulseras genesis',
     price: 8100,
@@ -611,7 +611,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 60,
     name: 'pulseras nocturnas',
     price: 8100,
@@ -621,7 +621,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 61,
     name: 'pulsera corazon de hielo',
     price: 8100,
@@ -631,7 +631,7 @@ export const products: Product[] = [
     isNew: false,
     isFeatured: false
   },
-{
+  {
     id: 62,
     name: 'pulseras susurro',
     price: 8100,
