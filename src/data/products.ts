@@ -471,7 +471,7 @@ export const products: Product[] = [
 
   // ========= PULSERAS =========
   {
-    id: 44,
+    id: p44,
     name: 'pulsera corazon azul',
     price: 8000,
     material: 'Acero blanco',
@@ -481,7 +481,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 45,
+    id: p45,
     name: 'pulsera geometrica',
     price: 8100,
     material: 'Acero Blanco',
@@ -491,7 +491,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 46,
+    id: p46,
     name: 'pulsera estilo van cleef plateada',
     price: 8100,
     material: 'Acero Blanco',
@@ -501,7 +501,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 47,
+    id: p47,
     name: 'pulsera rio de estrellas',
     price: 8100,
     material: 'Acero Blanco',
@@ -511,7 +511,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 48,
+    id: p48,
     name: 'pulsera eterna',
     price: 8100,
     material: 'Acero Blanco',
@@ -521,7 +521,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 49,
+    id: p49,
     name: 'pulsera triple gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -531,7 +531,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 50,
+    id: p50,
     name: 'pulsera corazon gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -541,7 +541,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 51,
+    id: p51,
     name: 'pulsera pretzel',
     price: 8100,
     material: 'Acero Blanco',
@@ -551,7 +551,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 52,
+    id: p52,
     name: 'pulsera lunar gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -561,7 +561,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 53,
+    id: p53,
     name: 'pulsera cuarzo',
     price: 8100,
     material: 'Acero Blanco',
@@ -571,7 +571,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 55,
+    id: p55,
     name: 'pulsera corazon negro',
     price: 8100,
     material: 'Acero Blanco',
@@ -581,7 +581,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 56,
+    id: p56,
     name: 'pulseras triple con bolitas',
     price: 8100,
     material: 'Acero Blanco',
@@ -591,7 +591,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 57,
+    id: p57,
     name: 'pulseras genesis',
     price: 8100,
     material: 'Acero Blanco',
@@ -601,7 +601,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 58,
+    id: p58,
     name: 'pulseras negra',
     price: 8100,
     material: 'Acero Blanco',
@@ -611,7 +611,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 59,
+    id: p59,
     name: 'pulsera corazon de hielo',
     price: 8100,
     material: 'Acero Blanco',
@@ -621,12 +621,72 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 60,
+    id: p60,
     name: 'pulseras negra doble',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/1XykXN4B/IMG-20260908-WA0667.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: p61,
+    name: 'pulseras trenza gruesa',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/0QjmsV0D/IMG-20260908-WA2196.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: p62,
+    name: 'pulseras bolas gruesas',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/VvbCS5Tq/IMG-20260908-WA5869.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: p63,
+    name: 'pulseras lineas gruesas',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/Cx0cgVBm/IMG-20260908-WA8049.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: p64,
+    name: 'pulseras bolitas simples',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/hvgXGMLS/IMG-20260908-WA8753.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: p65,
+    name: 'pulseras bolas cuarzo',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/kXJV31MX/IMG-20260908-WA8815.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: p66,
+    name: 'pulseras negra ojo',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/jS9CfRHz/IMG-20260908-WA9561.jpg',
     isNew: false,
     isFeatured: false
   },
