@@ -1,4 +1,4 @@
-https://i.postimg.cc/wj09Q1xx/IMG-20260903-WA9354.jpg// ============================================
+https://i.postimg.cc/wj09Q1xx/IMG-20260903-WA9354.jpg
 // 📦 ARCHIVO DE CONFIGURACIÓN DE PRODUCTOS
 // ============================================
 // 
@@ -171,7 +171,7 @@ export const products: Product[] = [
     id: 13,
     name: 'Anillo ébano',
     price: 2500,
-    material: 'Acero Blanco,
+    material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/ZYcKjs58/IMG-20260826-WA5924.jpg',
     isNew: false,
@@ -568,16 +568,6 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/pr1Xy76k/IMG-20260826-WA5393.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 54,
-    name: 'pulseras eclipse',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/T3nfXpfn/IMG-20260826-WA6251.jpg',
     isNew: false,
     isFeatured: false
   },
