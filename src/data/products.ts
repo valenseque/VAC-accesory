@@ -107,7 +107,7 @@ export const products: Product[] = [
     price: 8000,
     material: 'Acero blanco',
     category: 'Pulseras',
-    image: 'https://drive.google.com/file/d/1BbsSoHCyn-Miw8pvsnonnH0Q3hze3UY9/view?usp=sharing',
+    image: 'https://drive.google.com/file/d/1Y38O-xNPF6e1RZL0hmHmgYpGRZPawiZN/view?usp=sharing',
     isNew: true,
     isFeatured: true
   },
@@ -117,7 +117,7 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/a/PTdl1X1',
+    image: 'https://drive.google.com/file/d/1BbsSoHCyn-Miw8pvsnonnH0Q3hze3UY9/view?usp=sharing',
     isNew: false,
     isFeatured: false
   },
@@ -127,7 +127,7 @@ export const products: Product[] = [
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://imgur.com/a/ink8ho9',
+    image: 'https://drive.google.com/file/d/1R5nBKMWwfl5TyTVrklKHA1nyrfQYNBXM/view?usp=sharing',
     isNew: false,
     isFeatured: false
   },
