@@ -91,7 +91,7 @@ export const products: Product[] = [
     id: 5,
     name: 'Anillos alianza',
     price: 4000,
-    material: 'acero quirurjico',
+    material: 'Acero Quirúrgico',
     category: 'Anillos',
     image: 'https://i.postimg.cc/YSgsRVkf/IMG-20260826-WA1630.jpg',
     isNew: false,
@@ -141,7 +141,7 @@ export const products: Product[] = [
     id: 11,
     name: 'Anillo abierto corazón',
     price: 5000,
-    material: 'acero quirurjico',
+    material: 'Acero Quirúrgico',
     category: 'Anillos',
     image: 'https://i.postimg.cc/T3jbcqFV/IMG-20260826-WA4550.jpg',
     isNew: false,
@@ -268,7 +268,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 24,
+    id: 25,
     name: 'Anillos corazones',
     price: 24000,
     material: 'Plata de Ley',
@@ -278,7 +278,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 25,
+    id: 26,
     name: 'Anillos arcoiris',
     price: 6000,
     material: 'Acero Dorado',
@@ -288,7 +288,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 26,
+    id: 27,
     name: 'Anillos reina',
     price: 6000,
     material: 'Acero Dorado',
@@ -298,7 +298,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 27,
+    id: 28,
     name: 'Anillos redondos',
     price: 24000,
     material: 'Plata de Ley',
@@ -308,7 +308,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 29,
+    id: 30,
     name: 'Anillos de piedra',
     price: 6000,
     material: 'acero blanco',
@@ -318,7 +318,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 30,
+    id: 31,
     name: 'Anillos corona de invierno',
     price: 6000,
     material: 'acero blanco',
@@ -328,7 +328,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 31,
+    id: 32,
     name: 'Anillos triple',
     price: 9000,
     material: 'acero blanco',
@@ -340,7 +340,7 @@ export const products: Product[] = [
 
   // ========= COLLARES =========
   {
-    id: 32,
+    id: 33,
     name: 'Collar simple',
     price: 1800,
     material: 'Acero Quirúrgico',
@@ -350,7 +350,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 33,
+    id: 34,
     name: 'Collar Con bolitas',
     price: 1450,
     material: 'Acero Dorado',
@@ -360,7 +360,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 34,
+    id: 35,
     name: 'Collar estilo van cleef',
     price: 1450,
     material: 'Acero Dorado',
@@ -370,7 +370,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 35,
+    id: 36,
     name: 'Collar puntillismo',
     price: 1450,
     material: 'Acero Dorado',
@@ -380,7 +380,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 36,
+    id: 37,
     name: 'Collar corazon brillante',
     price: 1450,
     material: 'Acero Dorado',
@@ -390,7 +390,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 37,
+    id: 38,
     name: 'Collar corazon grande',
     price: 1450,
     material: 'Acero Dorado',
@@ -400,7 +400,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 38,
+    id: 39,
     name: 'Collar cero blanco',
     price: 1450,
     material: 'Acero Dorado',
@@ -410,7 +410,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 39,
+    id: 40,
     name: 'Collar trenzado',
     price: 1450,
     material: 'Acero Dorado',
@@ -420,7 +420,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 40,
+    id: 41,
     name: 'Collar corazon arcoiris',
     price: 1450,
     material: 'Acero Dorado',
@@ -430,7 +430,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 41,
+    id: 42,
     name: 'Collar estrella lunar',
     price: 1450,
     material: 'Acero Dorado',
@@ -440,7 +440,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 42,
+    id: 43,
     name: 'Collar san benito',
     price: 1450,
     material: 'Acero Dorado',
@@ -450,7 +450,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 43,
+    id: 44,
     name: 'combo estrellado',
     price: 1450,
     material: 'Acero Dorado',
@@ -460,7 +460,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 44,
+    id: 45,
     name: 'combo doble vinculo',
     price: 1450,
     material: 'Acero Dorado',
@@ -472,7 +472,7 @@ export const products: Product[] = [
 
   // ========= PULSERAS =========
   {
-    id: 45,
+    id: 46,
     name: 'pulsera corazon azul',
     price: 8000,
     material: 'Acero blanco',
@@ -482,7 +482,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 46,
+    id: 47,
     name: 'pulsera geometrica',
     price: 8100,
     material: 'Acero Blanco',
@@ -492,7 +492,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 47,
+    id: 48,
     name: 'pulsera estilo van cleef plateada',
     price: 8100,
     material: 'Acero Blanco',
@@ -502,7 +502,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 48,
+    id: 49,
     name: 'pulsera rio de estrellas',
     price: 8100,
     material: 'Acero Blanco',
@@ -512,7 +512,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 49,
+    id: 50,
     name: 'pulsera eterna',
     price: 8100,
     material: 'Acero Blanco',
@@ -522,7 +522,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 50,
+    id: 51,
     name: 'multiples pulseras gruesas',
     price: 8100,
     material: 'Acero Blanco',
@@ -532,7 +532,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 51,
+    id: 52,
     name: 'pulsera corazon gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -542,7 +542,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 52,
+    id: 53,
     name: 'pulsera triple y arcoiris',
     price: 8100,
     material: 'Acero Blanco',
@@ -552,7 +552,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 53,
+    id: 54,
     name: 'pulsera lunar gruesa',
     price: 8100,
     material: 'Acero Blanco',
@@ -562,22 +562,12 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 54,
+    id: 55,
     name: 'pulsera cuarzo',
     price: 8100,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/pr1Xy76k/IMG-20260826-WA5393.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 55,
-    name: 'pulseras eclipse',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/T3nfXpfn/IMG-20260826-WA6251.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -593,6 +583,16 @@ export const products: Product[] = [
   },
 {
     id: 57,
+    name: 'pulseras eclipse',
+    price: 8100,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/T3nfXpfn/IMG-20260826-WA6251.jpg',
+    isNew: false,
+    isFeatured: false
+  },
+{
+    id: 58,
     name: 'pulseras triple y trenzada fina',
     price: 8100,
     material: 'Acero Blanco',
@@ -602,7 +602,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 58,
+    id: 59,
     name: 'pulseras genesis',
     price: 8100,
     material: 'Acero Blanco',
@@ -612,7 +612,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 59,
+    id: 60,
     name: 'pulseras nocturnas',
     price: 8100,
     material: 'Acero Blanco',
@@ -622,7 +622,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 60,
+    id: 61,
     name: 'pulsera corazon de hielo',
     price: 8100,
     material: 'Acero Blanco',
@@ -632,7 +632,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 61,
+    id: 62,
     name: 'pulseras susurro',
     price: 8100,
     material: 'Acero Blanco',
@@ -644,7 +644,7 @@ export const products: Product[] = [
 
   // ========= ARETES =========
   {
-    id: 62,
+    id: 63,
     name: 'Aretes Zafiro Real',
     price: 1200,
     material: 'Acero Blanco',
@@ -654,7 +654,7 @@ export const products: Product[] = [
     isFeatured: true
   },
   {
-    id: 63,
+    id: 64,
     name: 'Aretes Gota de Luna',
     price: 890,
     material: 'Acero Quirúrgico',
