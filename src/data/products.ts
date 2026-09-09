@@ -705,7 +705,7 @@ export const products: Product[] = [
   {
     id: 76,
     name: 'Aros mariposa',
-    price: 1200,
+    price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/BbFFVXJN/IMG-20260826-180240657-HDR-AE.jpg',
@@ -715,7 +715,7 @@ export const products: Product[] = [
 {
     id: 77,
     name: 'Aros ice',
-    price: 890,
+    price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/d1kZhLZt/IMG-20260826-180407552-HDR-AE.jpg',
@@ -725,7 +725,7 @@ export const products: Product[] = [
 {
     id: 78,
     name: 'Aros abiertos',
-    price: 890,
+    price: 2500,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/y8pN07zb/IMG-20260826-WA0004.jpg',
@@ -735,7 +735,7 @@ export const products: Product[] = [
 {
     id: 79,
     name: 'Aros corazon de piedra',
-    price: 890,
+    price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/3RTQvqd7/IMG-20260826-WA0369.jpg',
@@ -743,19 +743,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 80,
-    name: 'Aros de corazon',
-    price: 890,
-    material: 'Acero Blanco',
-    category: 'Aretes',
-    image: 'https://i.postimg.cc/Z5pfd53v/IMG-20260826-WA3941.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
     id: 81,
     name: 'Aros pizza',
-    price: 890,
+    price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/0Q2ZFG4r/IMG-20260826-WA5014.jpg',
@@ -765,7 +755,7 @@ export const products: Product[] = [
 {
     id: 82,
     name: 'Aros argolla',
-    price: 890,
+    price: 4000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/q7pG6Xpk/IMG-20260826-WA5190.jpg',
@@ -775,7 +765,7 @@ export const products: Product[] = [
 {
     id: 83,
     name: 'Aros mariquita',
-    price: 890,
+    price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/8PW3h4g8/IMG-20260826-WA5465.jpg',
@@ -785,7 +775,7 @@ export const products: Product[] = [
 {
     id: 84,
     name: 'Aros corazon piedra aircoiris',
-    price: 890,
+    price: 5000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/FHkcJXVQ/IMG-20260902-WA0832.jpg',
@@ -795,7 +785,7 @@ export const products: Product[] = [
 {
     id: 85,
     name: 'Aros mini mariposa',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/BQGNGGRn/IMG-20260826-WA9575.jpg',
@@ -805,7 +795,7 @@ export const products: Product[] = [
 {
     id: 86,
     name: 'Aros cero arcoiris',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/Bbf5sxYT/IMG-20260902-WA1078.jpg',
@@ -815,7 +805,7 @@ export const products: Product[] = [
 {
     id: 87,
     name: 'Aros estrella de mar',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/8cbvSxrv/IMG-20260902-WA2155.jpg',
@@ -825,7 +815,7 @@ export const products: Product[] = [
 {
     id: 88,
     name: 'Aros estrellado dorado',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/HL77xr73/IMG-20260902-WA4021.jpg',
@@ -835,7 +825,7 @@ export const products: Product[] = [
 {
     id: 89,
     name: 'Aros gotas dorado',
-    price: 890,
+    price: 5000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/4xYYLYwy/IMG-20260902-WA4414.jpg',
@@ -845,7 +835,7 @@ export const products: Product[] = [
 {
     id: 90,
     name: 'Aros gotas de color',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/MpfG0hKH/IMG-20260902-WA7039.jpg',
@@ -855,7 +845,7 @@ export const products: Product[] = [
 {
     id: 91,
     name: 'Aros argollas gruesas',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/fybzVPrz/IMG-20260903-WA3871.jpg',
@@ -865,7 +855,7 @@ export const products: Product[] = [
 {
     id: 92,
     name: 'Aros corazon arcoiris',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/wMp1vHKY/IMG-20260902-WA1426.jpg',
@@ -875,7 +865,7 @@ export const products: Product[] = [
 {
     id: 93,
     name: 'Aros piedras rojas',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/SNQKtgkd/IMG-20260903-WA0081.jpg',
@@ -885,7 +875,7 @@ export const products: Product[] = [
 {
     id: 94,
     name: 'Aros moño brilalnte',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/J0pRLWRw/IMG-20260903-WA1449.jpg',
@@ -895,7 +885,7 @@ export const products: Product[] = [
 {
     id: 95,
     name: 'Aros de colores mini',
-    price: 890,
+    price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/Sx2kw55r/IMG-20260903-WA2753.jpg',
@@ -905,7 +895,7 @@ export const products: Product[] = [
 {
     id: 96,
     name: 'Aros vuelo de colibri',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/4dZGH3dG/IMG-20260903-WA4061.jpg',
@@ -915,7 +905,7 @@ export const products: Product[] = [
 {
     id: 97,
     name: 'Aros serpiente verde',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/sxNbmf3b/IMG-20260903-WA6611.jpg',
@@ -925,7 +915,7 @@ export const products: Product[] = [
 {
     id: 98,
     name: 'Aros argolla dorada',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/7Lnccnxd/IMG-20260903-WA8513.jpg',
@@ -935,7 +925,7 @@ export const products: Product[] = [
 {
     id: 99,
     name: 'Aros reliquia',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/LsDCv4Tk/IMG-20260903-WA8559(1).jpg',
@@ -945,7 +935,7 @@ export const products: Product[] = [
 {
     id: 100,
     name: 'Aros argolla con rombos',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/T3RHbWjh/IMG-20260908-WA0449.jpg',
@@ -955,7 +945,7 @@ export const products: Product[] = [
 {
     id: 101,
     name: 'Aros mosaico',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/VvqDrYdD/IMG-20260908-WA2811.jpg',
@@ -965,7 +955,7 @@ export const products: Product[] = [
 {
     id: 102,
     name: 'Aros gancho dorados',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/52NnyW1v/IMG-20260908-WA3208.jpg',
@@ -975,7 +965,7 @@ export const products: Product[] = [
 {
     id: 103,
     name: 'Aros forja',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/WpGn711r/IMG-20260908-WA3806.jpg',
@@ -985,7 +975,7 @@ export const products: Product[] = [
 {
     id: 104,
     name: 'Aros U dorados',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/cHQQTF08/IMG-20260908-WA4993.jpg',
@@ -995,7 +985,7 @@ export const products: Product[] = [
 {
     id: 105,
     name: 'Aros perla violeta',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/TYknkLM5/IMG-20260908-WA7144.jpg',
@@ -1005,7 +995,7 @@ export const products: Product[] = [
 {
     id: 106,
     name: 'Aros atardecer',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/FRQSf0c6/IMG-20260908-WA9065.jpg',
@@ -1015,7 +1005,7 @@ export const products: Product[] = [
 {
     id: 107,
     name: 'Aros estrella fugaz dorada',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/pLh5qsBH/IMG-20260908-WA9466.jpg',
@@ -1025,7 +1015,7 @@ export const products: Product[] = [
 {
     id: 108,
     name: 'Aros alegria de cristal',
-    price: 890,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/x8pqPmJQ/IMG-20260908-WA9876.jpg',
@@ -1035,7 +1025,7 @@ export const products: Product[] = [
 {
     id: 109,
     name: 'Aros argollas doradas',
-    price: 890,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/4NrxNspB/IMG-20260908-WA9939.jpg',
