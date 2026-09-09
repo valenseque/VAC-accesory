@@ -440,20 +440,10 @@ export const products: Product[] = [
   },
 
   // ========= PULSERAS =========
-  {
-    id: 44,
-    name: 'pulsera corazon azul',
-    price: 8000,
-    material: 'Acero blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/d1qRwkCX/file-000000007b98820eb355040a22ee38fe.png',
-    isNew: true,
-    isFeatured: true
-  },
 {
     id: 45,
     name: 'pulsera geometrica',
-    price: 8100,
+    price: 17000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/SKV2LZ2n/file-000000008210820eaa6545596734ccc0.png',
@@ -461,19 +451,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 46,
-    name: 'pulsera estilo van cleef plateada',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/c6qr12j7/file-00000000b8b0820eb496cccf023de5a3.png',
-    isNew: false,
-    isFeatured: false
-  },
-{
     id: 47,
     name: 'pulsera rio de estrellas',
-    price: 8100,
+    price: 8000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/6QHV66hd/IMG-20260826-WA1509.jpg',
@@ -483,7 +463,7 @@ export const products: Product[] = [
 {
     id: 48,
     name: 'pulsera eterna',
-    price: 8100,
+    price: 17000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/vmDgzrWt/IMG-20260826-WA2105.jpg',
@@ -493,7 +473,7 @@ export const products: Product[] = [
 {
     id: 49,
     name: 'pulsera triple gruesa',
-    price: 8100,
+    price: 20000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/SKyx0jfV/IMG-20260908-WA3677.jpg',
@@ -503,7 +483,7 @@ export const products: Product[] = [
 {
     id: 50,
     name: 'pulsera corazon gruesa',
-    price: 8100,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/QxrfytYd/IMG-20260826-WA3235.jpg',
@@ -513,7 +493,7 @@ export const products: Product[] = [
 {
     id: 51,
     name: 'pulsera pretzel',
-    price: 8100,
+    price: 9000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/2jqv9X6m/IMG-20260908-WA5161.jpg',
@@ -523,7 +503,7 @@ export const products: Product[] = [
 {
     id: 52,
     name: 'pulsera lunar gruesa',
-    price: 8100,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/W116BJGs/IMG-20260826-WA5004.jpg',
@@ -533,7 +513,7 @@ export const products: Product[] = [
 {
     id: 53,
     name: 'pulsera cuarzo',
-    price: 8100,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/gJLJsQKQ/IMG-20260908-WA7707.jpg',
@@ -543,7 +523,7 @@ export const products: Product[] = [
 {
     id: 55,
     name: 'pulsera corazon negro',
-    price: 8100,
+    price: 10000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/zv1JjBv8/IMG-20260908-WA4114.jpg',
@@ -553,7 +533,7 @@ export const products: Product[] = [
 {
     id: 56,
     name: 'pulseras triple con bolitas',
-    price: 8100,
+    price: 9000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/pdhRM8n9/IMG-20260908-WA3047.jpg',
@@ -561,39 +541,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 57,
-    name: 'pulseras genesis',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/Th8FkJLh/IMG-20260826-WA8991.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 58,
-    name: 'pulseras negra',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/L8hMjfvM/IMG-20260908-WA1442.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 59,
-    name: 'pulsera corazon de hielo',
-    price: 8100,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/fTfQH1K1/IMG-20260826-WA9671.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
     id: 60,
     name: 'pulseras negra doble',
-    price: 8100,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/1XykXN4B/IMG-20260908-WA0667.jpg',
@@ -603,7 +553,7 @@ export const products: Product[] = [
 {
     id: 61,
     name: 'pulseras trenza gruesa',
-    price: 8100,
+    price: 8000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/0QjmsV0D/IMG-20260908-WA2196.jpg',
@@ -613,7 +563,7 @@ export const products: Product[] = [
 {
     id: 62,
     name: 'pulseras bolas gruesas',
-    price: 8100,
+    price: 9000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/VvbCS5Tq/IMG-20260908-WA5869.jpg',
@@ -623,7 +573,7 @@ export const products: Product[] = [
 {
     id: 63,
     name: 'pulseras lineas gruesas',
-    price: 8100,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/Cx0cgVBm/IMG-20260908-WA8049.jpg',
@@ -633,7 +583,7 @@ export const products: Product[] = [
 {
     id: 64,
     name: 'pulseras bolitas simples',
-    price: 8100,
+    price: 6000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/hvgXGMLS/IMG-20260908-WA8753.jpg',
@@ -643,7 +593,7 @@ export const products: Product[] = [
 {
     id: 65,
     name: 'pulseras bolas cuarzo',
-    price: 8100,
+    price: 12000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/kXJV31MX/IMG-20260908-WA8815.jpg',
@@ -653,7 +603,7 @@ export const products: Product[] = [
 {
     id: 66,
     name: 'pulseras negra ojo',
-    price: 8100,
+    price: 10000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/jS9CfRHz/IMG-20260908-WA9561.jpg',
@@ -663,7 +613,7 @@ export const products: Product[] = [
 {
     id: 67,
     name: 'pulsera dorada simple',
-    price: 8100,
+    price: 4000,
     material: 'Acero Dorado',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/QN4BDgFP/IMG-20260908-WA0145.jpg',
@@ -673,7 +623,7 @@ export const products: Product[] = [
 {
     id: 68,
     name: 'pulsera doble corazones dorada',
-    price: 8100,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/HnVknKrK/IMG-20260908-WA0351.jpg',
@@ -683,7 +633,7 @@ export const products: Product[] = [
 {
     id: 69,
     name: 'pulsera mariposa dorada',
-    price: 8100,
+    price: 9000,
     material: 'Acero Dorado',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/Z5k5Yw4d/IMG-20260908-WA2164.jpg',
@@ -693,7 +643,7 @@ export const products: Product[] = [
 {
     id: 70,
     name: 'pulsera flor dorada',
-    price: 8100,
+    price: 6000,
     material: 'Acero Dorado',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/HxLpvK9d/IMG-20260908-WA4509.jpg',
@@ -703,7 +653,7 @@ export const products: Product[] = [
 {
     id: 71,
     name: 'pulsera trenzada dorada',
-    price: 8100,
+    price: 4000,
     material: 'Acero Dorado',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/6q2BtvS6/IMG-20260908-WA6027.jpg',
@@ -713,7 +663,7 @@ export const products: Product[] = [
 {
     id: 72,
     name: 'pulsera margarita plateada',
-    price: 8100,
+    price: 9000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/9MvQ4by3/IMG-20260908-WA6850.jpg',
@@ -723,7 +673,7 @@ export const products: Product[] = [
 {
     id: 73,
     name: 'pulsera enganche corazon',
-    price: 8100,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/Vv12Hb8W/IMG-20260908-WA1215.jpg',
@@ -733,7 +683,7 @@ export const products: Product[] = [
 {
     id: 74,
     name: 'pulsera estrella lunar',
-    price: 8100,
+    price: 20000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/xTfWvHgf/IMG-20260908-WA3623.jpg',
@@ -743,7 +693,7 @@ export const products: Product[] = [
 {
     id: 75,
     name: 'pulsera trebol plateada',
-    price: 8100,
+    price: 16000,
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/T3hFS6zv/IMG-20260908-WA7468.jpg',
