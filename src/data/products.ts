@@ -53,8 +53,8 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/TYVh820y/IMG-20260826-174817083-HDR-AE.jpg',
-    isNew: true,
-    isFeatured: true
+    isNew: false,
+    isFeatured: false
   },
 {
     id: 2,
@@ -223,8 +223,8 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/NGVPhBM1/IMG-20260826-WA8378.jpg',
-    isNew: false,
-    isFeatured: false
+    isNew: true,
+    isFeatured: true
   },
 {
     id: 20,
@@ -263,7 +263,7 @@ export const products: Product[] = [
     material: 'plata de ley',
     category: 'Anillos',
     image: 'https://i.postimg.cc/hPBZ4MLX/IMG-20260902-WA1738.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -283,7 +283,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Anillos',
     image: 'https://i.postimg.cc/wByQQs5x/IMG-20260902-WA4910.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -293,7 +293,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Anillos',
     image: 'https://i.postimg.cc/Dwmr7bM4/IMG-20260902-WA5776.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -303,7 +303,7 @@ export const products: Product[] = [
     material: 'Plata de Ley',
     category: 'Anillos',
     image: 'https://i.postimg.cc/L5CJWxRy/IMG-20260902-WA9966.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -313,7 +313,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/rFDsmCqx/IMG-20260903-WA2354.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -333,7 +333,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/wj09Q1xx/IMG-20260903-WA9354.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -343,7 +343,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/wvYPC1Nt/IMG-20260909-WA4390.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -353,7 +353,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/nr0P9TP8/IMG-20260909-WA6757.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -363,7 +363,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/157d9CF0/IMG-20260909-WA7592.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -373,7 +373,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/tTzr82y8/IMG-20260909-WA3493.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -383,7 +383,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/y6vQPQLg/IMG-20260909-WA8869.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 
@@ -405,7 +405,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/8cqZSzPF/IMG-20260826-WA3714.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -415,7 +415,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/QtzbQd7w/IMG-20260826-WA5781.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -425,7 +425,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/gj9M9001/IMG-20260826-WA5732.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -435,7 +435,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/Ssc6MfyD/IMG-20260826-WA6095.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -445,7 +445,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/G2PPH25G/IMG-20260909-WA0538.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -455,7 +455,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/L65qd3rg/IMG-20260826-WA8005.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -465,7 +465,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/HnhkWFfK/IMG-20260826-WA8066.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -475,7 +475,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Collares',
     image: 'https://i.postimg.cc/vTqVV6LT/IMG-20260909-WA0810.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -485,7 +485,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/5tbbJxXy/IMG-20260826-WA9070.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -516,7 +516,7 @@ export const products: Product[] = [
     category: 'Collares',
     image: 'https://i.postimg.cc/s2d3wDwn/IMG-20260908-WA3504.jpg',
     isNew: true,
-    isFeatured: false
+    isFeatured: true
   },
 {
     id: 114,
@@ -575,7 +575,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/qvC3Nqtv/IMG-20260909-WA3290.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -595,7 +595,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/nL3pZYHH/IMG-20260909-WA6993.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -605,7 +605,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/NjYKjDwH/IMG-20260909-WA8199.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -827,8 +827,8 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/Z5k5Yw4d/IMG-20260908-WA2164.jpg',
-    isNew: false,
-    isFeatured: false
+    isNew: true,
+    isFeatured: true
   },
 {
     id: 220,
@@ -857,7 +857,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Pulseras',
     image: 'https://i.postimg.cc/9MvQ4by3/IMG-20260908-WA6850.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -949,7 +949,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/y8pN07zb/IMG-20260826-WA0004.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -959,7 +959,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/3RTQvqd7/IMG-20260826-WA0369.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -969,7 +969,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/0Q2ZFG4r/IMG-20260826-WA5014.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -979,7 +979,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/q7pG6Xpk/IMG-20260826-WA5190.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -989,7 +989,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/8PW3h4g8/IMG-20260826-WA5465.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -999,7 +999,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/FHkcJXVQ/IMG-20260902-WA0832.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1019,7 +1019,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/Bbf5sxYT/IMG-20260902-WA1078.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
