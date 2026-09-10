@@ -902,7 +902,7 @@ export const products: Product[] = [
   },
 {
     id: 227,
-    name: 'pulsera funa con bolitas hombre',
+    name: 'pulsera fina con bolitas hombre',
     price: 16000,
     material: 'Acero Blanco',
     category: 'Pulseras',
@@ -916,7 +916,7 @@ export const products: Product[] = [
     price: 16000,
     material: 'Acero Blanco',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/2S6fGLdz/IMG-20260909-WA8784.jpg',
+    image: 'https://i.postimg.cc/1zV1hxYv/IMG-20260909-WA9540.jpg',
     isNew: false,
     isFeatured: false
   },
