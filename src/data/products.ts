@@ -1152,6 +1152,36 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
+{
+    id: 334,
+    name: 'Aros de plata vinculo',
+    price: 24000,
+    material: 'Plata de Ley',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/x1cGqK7N/IMG-20260910-WA1621.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 335,
+    name: 'Aros de plata cristal',
+    price: 24000,
+    material: 'Plata de Ley',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/d090YfB1/IMG-20260910-WA2010.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 336,
+    name: 'Aros de plata eterno',
+    price: 24000,
+    material: 'Plata de Ley',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/VLbL6vgm/IMG-20260910-WA4055.jpg',
+    isNew: true,
+    isFeatured: false
+  },
 ]
 
 // Categorías disponibles
