@@ -292,7 +292,7 @@ export const products: Product[] = [
     price: 4000,
     material: 'Acero Dorado',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/y6vQPQLg/IMG-20260909-WA8869.jpg',
+    image: 'https://i.postimg.cc/2yW6PSXm/IMG-20260910-WA3865.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -302,7 +302,7 @@ export const products: Product[] = [
     price: 4000,
     material: 'Acero Dorado',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/y6vQPQLg/IMG-20260909-WA8869.jpg',
+    image: 'https://i.postimg.cc/mDvZNGZd/IMG-20260910-WA8594.jpg',
     isNew: true,
     isFeatured: false
   },
