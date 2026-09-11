@@ -62,7 +62,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/cHyVNWXL/IMG-20260826-WA1004.jpg',
+    image: 'https://i.postimg.cc/KzFLnzxK/IMG-20260911-WA3780.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -122,7 +122,7 @@ export const products: Product[] = [
     price: 4000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/9M15PSYQ/IMG-20260826-WA6459.jpg',
+    image: 'https://i.postimg.cc/3whWqcVM/IMG-20260911-WA7334.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -132,7 +132,7 @@ export const products: Product[] = [
     price: 8000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/NGVPhBM1/IMG-20260826-WA8378.jpg',
+    image: 'https://i.postimg.cc/mrVZ527r/IMG-20260911-WA7381.jpg',
     isNew: true,
     isFeatured: true
   },
@@ -336,6 +336,116 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
+{
+    id: 30,
+    name: 'Anillo corazones abierto',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/qMGFnhrx/IMG-20260910-WA4492.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 31,
+    name: 'Anillo luz',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/SNmTySM3/IMG-20260911-WA0721.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 32,
+    name: 'Anillo tres perlas',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/R0tQ7ytX/IMG-20260911-WA1727.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 33,
+    name: 'Anillo luz dorado',
+    price: 6000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/QCfpN3LC/IMG-20260911-WA1986.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 34,
+    name: 'Anillo mariposas dorado',
+    price: 6000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/kg6xCzfL/IMG-20260911-WA3465.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 35,
+    name: 'Anillo de colores fino',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/6qbvJfRZ/IMG-20260911-WA4860.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 36,
+    name: 'Anillo de colores grueso',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/3xvDVpwD/IMG-20260911-WA5809.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 37,
+    name: 'Anillo dos corazones dorado',
+    price: 6000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/5t5QNVLH/IMG-20260911-WA4926.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 38,
+    name: 'Anillo reina dorado',
+    price: 6000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/CMRDkWVR/IMG-20260911-WA7544.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 39,
+    name: 'Anillo corazon de colores',
+    price: 6000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/K8xRqWdy/IMG-20260911-WA9026.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 40,
+    name: 'Anillo perla y colores',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/XvDqvYqH/IMG-20260911-WA9176.jpg',
+    isNew: true,
+    isFeatured: false
+  },
 
   // ========= COLLARES =========
   {
@@ -414,7 +524,7 @@ export const products: Product[] = [
     price: 12000,
     material: 'Acero Dorado',
     category: 'Collares',
-    image: 'https://i.postimg.cc/HnhkWFfK/IMG-20260826-WA8066.jpg',
+    image: 'https://i.postimg.cc/5NFcCN0k/IMG-20260909-WA4774.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -434,7 +544,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Blanco',
     category: 'Collares',
-    image: 'https://i.postimg.cc/5tbbJxXy/IMG-20260826-WA9070.jpg',
+    image: 'https://i.postimg.cc/NF9nmpg2/IMG-20260909-WA5402.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -576,6 +686,36 @@ export const products: Product[] = [
     category: 'Collares',
     image: 'https://i.postimg.cc/nh0hct2M/IMG-20260909-WA9461.jpg',
     isNew: true,
+    isFeatured: false
+  },
+{
+    id: 125,
+    name: 'collar cruz gruesa',
+    price: 15000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/fLJsq7wK/IMG-20260909-WA6685.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 126,
+    name: 'collar corazon brillante',
+    price: 10000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/3r07gZf1/IMG-20260909-WA9433.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 127,
+    name: 'Collar corazon arcoiris chico',
+    price: 8000,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/yNr4RJFR/IMG-20260909-WA9763.jpg',
+    isNew: false,
     isFeatured: false
   },
 
@@ -928,7 +1068,7 @@ export const products: Product[] = [
     price: 4000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/q7pG6Xpk/IMG-20260826-WA5190.jpg',
+    image: 'https://i.postimg.cc/jS0jW1sz/IMG-20260910-WA5054.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -938,7 +1078,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/8PW3h4g8/IMG-20260826-WA5465.jpg',
+    image: 'https://i.postimg.cc/Zn8Mw0dS/IMG-20260910-WA4482.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -968,7 +1108,7 @@ export const products: Product[] = [
     price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/Bbf5sxYT/IMG-20260902-WA1078.jpg',
+    image: 'https://i.postimg.cc/Kj1YLSkv/IMG-20260911-WA1401.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -1269,6 +1409,46 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/3rnNcWrp/IMG-20260910-WA5222.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 341,
+    name: 'Aros corazones largo',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/3JjsBfXH/IMG-20260910-WA1659.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 342,
+    name: 'Aros gota plateada',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/25tM6sYY/IMG-20260910-WA3336.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 343,
+    name: 'Aros mini mariposa',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/ht17Kn9j/IMG-20260911-WA7603.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 344,
+    name: 'Aros estrella fugaz',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/jqnwLPz8/IMG-20260911-WA8621.jpg',
     isNew: true,
     isFeatured: false
   },
