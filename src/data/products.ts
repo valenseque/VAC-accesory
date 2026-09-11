@@ -46,20 +46,10 @@ export interface Product {
 
 export const products: Product[] = [
   // ========= ANILLOS =========
-  {
-    id: 1,
-    name: 'Anillo áureo',
-    price: 6000,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/TYVh820y/IMG-20260826-174817083-HDR-AE.jpg',
-    isNew: false,
-    isFeatured: false
-  },
 {
-    id: 2,
+    id: 1,
     name: 'Anillo sombrio',
-    price: 6000,
+    price: 9000,
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/7ZL4BqQ1/IMG-20260826-WA0226.jpg',
@@ -67,17 +57,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 3,
-    name: 'Anillo moño',
-    price: 6000,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/jdxY5sKr/IMG-20260826-WA0257.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 4,
+    id: 2,
     name: 'Anillo perla',
     price: 3000,
     material: 'Acero Blanco',
@@ -87,7 +67,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 5,
+    id: 3,
     name: 'Anillos alianza',
     price: 4000,
     material: 'Acero Quirúrgico',
@@ -97,7 +77,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 6,
+    id: 4,
     name: 'Anillo bruma',
     price: 3000,
     material: 'Acero Blanco',
@@ -107,19 +87,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 7,
-    name: 'Anillo camino de estrellas',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/25fwk5Rc/IMG-20260826-WA3128.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 8,
+    id: 5,
     name: 'Anillo margarita',
-    price: 6000,
+    price: 10000,
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/CxbGQVBm/IMG-20260826-WA3621.jpg',
@@ -127,9 +97,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 9,
+    id: 6,
     name: 'Anillo flor',
-    price: 6000,
+    price: 10000,
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/mk09mdTp/IMG-20260826-WA4350.jpg',
@@ -137,7 +107,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 10,
+    id: 7,
     name: 'Anillo abierto corazón',
     price: 5000,
     material: 'Acero Quirúrgico',
@@ -147,47 +117,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 11,
-    name: 'Anillo tres puntos',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/wjFXpQ2s/IMG-20260826-WA4886.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 12,
-    name: 'Anillo bolitas',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/MHyBr7Hr/IMG-20260826-WA4901.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 13,
-    name: 'Anillo ébano',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/ZYcKjs58/IMG-20260826-WA5924.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 15,
-    name: 'Anillo perlas',
-    price: 3000,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/yN4H70NC/IMG-20260826-WA6065.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 16,
+    id: 8,
     name: 'Anillo misterio',
     price: 4000,
     material: 'Acero Blanco',
@@ -197,29 +127,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 17,
-    name: 'Anillo diamante',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/CL9y4bkR/IMG-20260826-WA8351.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 18,
-    name: 'Anillo ónix',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/pLKSY4PB/IMG-20260826-WA6824.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 19,
+    id: 9,
     name: 'Anillo vigilia',
-    price: 6000,
+    price: 8000,
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/NGVPhBM1/IMG-20260826-WA8378.jpg',
@@ -227,7 +137,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 20,
+    id: 10,
     name: 'Anillo sello',
     price: 10000,
     material: 'Acero Blanco',
@@ -237,9 +147,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 21,
+    id: 11,
     name: 'Anillo ramas',
-    price: 1300,
+    price: 12000,
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/pT37BH5s/IMG-20260826-WA9571.jpg',
@@ -247,17 +157,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 22,
-    name: 'Anillo tiara',
-    price: 2500,
-    material: 'Acero Blanco',
-    category: 'Anillos',
-    image: 'https://i.postimg.cc/RV78w2S2/IMG-20260826-WA9689.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 23,
+    id: 12,
     name: 'Anillos tres aguas',
     price: 24000,
     material: 'plata de ley',
@@ -267,7 +167,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 24,
+    id: 13,
     name: 'Anillos corazones',
     price: 24000,
     material: 'Plata de Ley',
@@ -277,7 +177,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 25,
+    id: 14,
     name: 'Anillos arcoiris',
     price: 6000,
     material: 'Acero Dorado',
@@ -287,7 +187,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 26,
+    id: 15,
     name: 'Anillos reina',
     price: 6000,
     material: 'Acero Dorado',
@@ -297,7 +197,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 27,
+    id: 16,
     name: 'Anillos redondos',
     price: 24000,
     material: 'Plata de Ley',
@@ -307,7 +207,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 28,
+    id: 17,
     name: 'Anillos de piedra',
     price: 6000,
     material: 'Acero Blanco',
@@ -317,7 +217,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 29,
+    id: 18,
     name: 'Anillos corona de invierno',
     price: 6000,
     material: 'Acero Blanco',
@@ -327,7 +227,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 30,
+    id: 19,
     name: 'Anillos triple',
     price: 9000,
     material: 'Acero Blanco',
@@ -337,7 +237,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 31,
+    id: 20,
     name: 'Anillos fino hombre',
     price: 9000,
     material: 'Acero Blanco',
@@ -347,7 +247,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 32,
+    id: 21,
     name: 'Anillos cruz hombre',
     price: 9000,
     material: 'Acero Blanco',
@@ -357,7 +257,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 33,
+    id: 22,
     name: 'Anillos grueso hombre',
     price: 9000,
     material: 'Acero Blanco',
@@ -367,7 +267,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 34,
+    id: 23,
     name: 'Anillos circular hombre',
     price: 9000,
     material: 'Acero Blanco',
@@ -377,7 +277,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 35,
+    id: 24,
     name: 'Anillos circular negro hombre',
     price: 9000,
     material: 'Acero Blanco',
