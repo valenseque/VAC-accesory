@@ -888,7 +888,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/d1kZhLZt/IMG-20260826-180407552-HDR-AE.jpg',
+    image: 'https://i.postimg.cc/66Ln59Wr/IMG-20260910-WA5503.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -908,7 +908,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/3RTQvqd7/IMG-20260826-WA0369.jpg',
+    image: 'https://i.postimg.cc/xjxjP7g4/IMG-20260910-WA7434.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -918,7 +918,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/0Q2ZFG4r/IMG-20260826-WA5014.jpg',
+    image: 'https://i.postimg.cc/k54fW243/IMG-20260910-WA4468.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -1229,6 +1229,46 @@ export const products: Product[] = [
     material: 'Plata de Ley',
     category: 'Aretes',
     image: 'https://i.postimg.cc/VLbL6vgm/IMG-20260910-WA4055.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 337,
+    name: 'Aros royal',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/MpzsKPJw/IMG-20260910-WA2050.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 338,
+    name: 'Aros realeza',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/76J9Qj0s/IMG-20260910-WA4957.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 339,
+    name: 'Aros gotita',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/pVZ5MqCK/IMG-20260910-WA6699.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 340,
+    name: 'Aros colgantes',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Aretes',
+    image: 'https://i.postimg.cc/3rnNcWrp/IMG-20260910-WA5222.jpg',
     isNew: true,
     isFeatured: false
   },
