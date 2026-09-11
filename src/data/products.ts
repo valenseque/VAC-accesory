@@ -286,6 +286,26 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
+{
+    id: 25,
+    name: 'Anillos alianza dorada',
+    price: 4000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/y6vQPQLg/IMG-20260909-WA8869.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 26,
+    name: 'Anillos amdbar',
+    price: 4000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/y6vQPQLg/IMG-20260909-WA8869.jpg',
+    isNew: true,
+    isFeatured: false
+  },
 
   // ========= COLLARES =========
   {
