@@ -52,7 +52,7 @@ export const products: Product[] = [
     price: 9000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/7ZL4BqQ1/IMG-20260826-WA0226.jpg',
+    image: 'https://i.postimg.cc/Cxng7Qt7/IMG-20260910-WA3819.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -82,7 +82,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/yNFLcZy8/IMG-20260826-WA2070.jpg',
+    image: 'https://i.postimg.cc/sfnCrzRC/IMG-20260910-WA5580.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -92,7 +92,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/CxbGQVBm/IMG-20260826-WA3621.jpg',
+    image: 'https://i.postimg.cc/jSDs95wx/IMG-20260910-WA0000.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -102,7 +102,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/mk09mdTp/IMG-20260826-WA4350.jpg',
+    image: 'https://i.postimg.cc/vBsbct0C/IMG-20260910-WA4056.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -112,7 +112,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Quirúrgico',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/T3jbcqFV/IMG-20260826-WA4550.jpg',
+    image: 'https://i.postimg.cc/bJ98bSMT/IMG-20260910-WA1835.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -142,7 +142,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/VsrP07bf/IMG-20260826-WA8900.jpg',
+    image: 'https://i.postimg.cc/C17TdTBM/IMG-20260910-WA5490.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -152,7 +152,7 @@ export const products: Product[] = [
     price: 12000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/pT37BH5s/IMG-20260826-WA9571.jpg',
+    image: 'https://i.postimg.cc/vZVJf6x1/IMG-20260910-WA9370.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -303,6 +303,36 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Anillos',
     image: 'https://i.postimg.cc/mDvZNGZd/IMG-20260910-WA8594.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 27,
+    name: 'Anillos triple dorado',
+    price: 9000,
+    material: 'Acero Dorado',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/XvTXx5Qt/IMG-20260910-WA1092.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 28,
+    name: 'Anillo mariposa abierto',
+    price: 9000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Ghq2VVXh/IMG-20260910-WA0849.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 29,
+    name: 'Anillo cuadrado',
+    price: 9000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/PJKXGvz7/IMG-20260910-WA6673.jpg',
     isNew: true,
     isFeatured: false
   },
