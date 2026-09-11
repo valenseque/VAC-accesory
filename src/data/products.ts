@@ -888,7 +888,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/66Ln59Wr/IMG-20260910-WA5503.jpg',
+    image: 'https://i.postimg.cc/vZSWF3Q1/IMG-20260910-WA9168.jpg',
     isNew: true,
     isFeatured: false
   },
