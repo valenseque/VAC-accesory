@@ -298,7 +298,7 @@ export const products: Product[] = [
   },
 {
     id: 26,
-    name: 'Anillos amdbar',
+    name: 'Anillos ambar',
     price: 4000,
     material: 'Acero Dorado',
     category: 'Anillos',
