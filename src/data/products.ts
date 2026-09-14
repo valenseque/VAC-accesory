@@ -1080,7 +1080,7 @@ export const products: Product[] = [
   },
 {
     id: 125,
-    name: 'Cadenita con estrella grande',
+    name: 'Cadenita cubana chica',
     price: 3000,
     material: 'Acero Blanco',
     category: 'Collares',
