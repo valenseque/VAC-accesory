@@ -914,7 +914,7 @@ export const products: Product[] = [
     price: 12000,
     material: 'Acero Blanco',
     category: 'Collares',
-    image: 'https://i.postimg.cc/W3ctFwBS/IMG-20260908-WA1247.jpg',
+    image: 'https://i.postimg.cc/TwxYYYbz/IMG-20260908-WA1592.jpg',
     isNew: true,
     isFeatured: false
   },
