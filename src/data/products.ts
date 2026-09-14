@@ -460,26 +460,6 @@ export const products: Product[] = [
   },
 {
     id: 102,
-    name: 'Collar Con bolitas',
-    price: 8000,
-    material: 'Acero Blanco',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/8cqZSzPF/IMG-20260826-WA3714.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 103,
-    name: 'Collar estilo van cleef',
-    price: 14000,
-    material: 'Acero Blanco',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/QtzbQd7w/IMG-20260826-WA5781.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 104,
     name: 'Collar puntillismo',
     price: 4000,
     material: 'Acero Blanco',
@@ -489,17 +469,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 105,
-    name: 'Collar corazon brillante',
-    price: 9000,
-    material: 'Acero Blanco',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/Ssc6MfyD/IMG-20260826-WA6095.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 106,
+    id: 103,
     name: 'Collar cero blanco',
     price: 12000,
     material: 'Acero Blanco',
@@ -509,7 +479,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 107,
+    id: 104,
     name: 'Collar trenzado',
     price: 4000,
     material: 'Acero Dorado',
@@ -519,7 +489,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 108,
+    id: 105,
     name: 'Collar corazon arcoiris',
     price: 12000,
     material: 'Acero Dorado',
@@ -529,7 +499,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 109,
+    id: 106,
     name: 'Collar estrella lunar',
     price: 6000,
     material: 'Acero Dorado',
@@ -539,7 +509,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 110,
+    id: 107,
     name: 'Collar san benito',
     price: 10000,
     material: 'Acero Blanco',
@@ -549,17 +519,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 111,
-    name: 'Collar colibri azul dorado',
-    price: 10000,
-    material: 'Acero Dorado',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/W3ctFwBS/IMG-20260908-WA1247.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 112,
+    id: 108,
     name: 'Collar colibri verde plateado',
     price: 12000,
     material: 'Acero Blanco',
@@ -569,7 +529,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 113,
+    id: 109,
     name: 'Collar estilo vaan clef dorado',
     price: 8000,
     material: 'Acero Dorado',
@@ -579,7 +539,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 114,
+    id: 110,
     name: 'Collar mariposa plateada',
     price: 12000,
     material: 'Acero Blanco',
@@ -589,27 +549,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 115,
-    name: 'Collar colibri rosa dorado',
-    price: 10000,
-    material: 'Acero Dorado',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/W4YLxNnN/IMG-20260908-WA6864.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 116,
-    name: 'Collar tubo silple dorada',
-    price: 5000,
-    material: 'Acero Dorado',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/BnNd1SRY/IMG-20260908-WA8158.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 117,
+    id: 111,
     name: 'Collar estrella y bolitas',
     price: 7000,
     material: 'Acero Dorado',
@@ -619,7 +559,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 118,
+    id: 112,
     name: 'Collar mariposa dorada',
     price: 10000,
     material: 'Acero Dorado',
@@ -629,7 +569,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 119,
+    id: 113,
     name: 'Collar arbol de la vida',
     price: 12000,
     material: 'Acero Blanco',
@@ -639,7 +579,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 120,
+    id: 114,
     name: 'collar simple hombre',
     price: 3000,
     material: 'Acero Blanco',
@@ -649,7 +589,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 121,
+    id: 115,
     name: 'collar circular',
     price: 9000,
     material: 'Acero Blanco',
@@ -659,9 +599,9 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 122,
+    id: 116,
     name: 'collar van cleef brillante',
-    price: 10000,
+    price: 15000,
     material: 'Acero Blanco',
     category: 'Collares',
     image: 'https://i.postimg.cc/NjYKjDwH/IMG-20260909-WA8199.jpg',
@@ -669,7 +609,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 123,
+    id: 117,
     name: 'collar fino hombre',
     price: 3000,
     material: 'Acero Blanco',
@@ -679,7 +619,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 124,
+    id: 118,
     name: 'collar fino plateado',
     price: 4000,
     material: 'Acero Blanco',
@@ -689,7 +629,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 125,
+    id: 119,
     name: 'collar cruz gruesa',
     price: 15000,
     material: 'Acero Blanco',
@@ -699,7 +639,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 126,
+    id: 120,
     name: 'collar corazon brillante',
     price: 10000,
     material: 'Acero Blanco',
@@ -709,7 +649,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 127,
+    id: 121,
     name: 'Collar corazon arcoiris chico',
     price: 8000,
     material: 'Acero Dorado',
@@ -842,16 +782,6 @@ export const products: Product[] = [
   },
 {
     id: 212,
-    name: 'pulseras bolas gruesas',
-    price: 9000,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/VvbCS5Tq/IMG-20260908-WA5869.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 213,
     name: 'pulseras lineas gruesas',
     price: 15000,
     material: 'Acero Blanco',
@@ -861,17 +791,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 214,
-    name: 'pulseras bolitas simples',
-    price: 6000,
-    material: 'Acero Blanco',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/hvgXGMLS/IMG-20260908-WA8753.jpg',
-    isNew: false,
-    isFeatured: false
-  },
-{
-    id: 215,
+    id: 213,
     name: 'pulseras bolas cuarzo',
     price: 12000,
     material: 'Acero Blanco',
@@ -881,7 +801,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 216,
+    id: 214,
     name: 'pulseras negra ojo',
     price: 10000,
     material: 'Acero Blanco',
@@ -891,7 +811,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 217,
+    id: 215,
     name: 'pulsera dorada simple',
     price: 4000,
     material: 'Acero Dorado',
@@ -901,7 +821,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 218,
+    id: 216,
     name: 'pulsera doble corazones dorada',
     price: 6000,
     material: 'Acero Dorado',
@@ -911,7 +831,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 219,
+    id: 217,
     name: 'pulsera mariposa dorada',
     price: 9000,
     material: 'Acero Dorado',
@@ -921,7 +841,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 220,
+    id: 218,
     name: 'pulsera flor dorada',
     price: 6000,
     material: 'Acero Dorado',
@@ -931,7 +851,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 221,
+    id: 219,
     name: 'pulsera trenzada dorada',
     price: 4000,
     material: 'Acero Dorado',
@@ -941,7 +861,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 222,
+    id: 220,
     name: 'pulsera margarita plateada',
     price: 9000,
     material: 'Acero Blanco',
@@ -951,7 +871,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 223,
+    id: 221,
     name: 'pulsera enganche corazon',
     price: 15000,
     material: 'Acero Blanco',
@@ -961,7 +881,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 224,
+    id: 222,
     name: 'pulsera estrella lunar',
     price: 20000,
     material: 'Acero Blanco',
@@ -971,7 +891,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 225,
+    id: 223,
     name: 'pulsera trebol plateada',
     price: 16000,
     material: 'Acero Blanco',
@@ -981,7 +901,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 226,
+    id: 224,
     name: 'pulsera gruesa hombre',
     price: 16000,
     material: 'Acero Blanco',
@@ -991,7 +911,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 227,
+    id: 225,
     name: 'pulsera fina con bolitas hombre',
     price: 16000,
     material: 'Acero Blanco',
@@ -1001,7 +921,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 228,
+    id: 226,
     name: 'pulsera cubana hombre',
     price: 16000,
     material: 'Acero Blanco',
@@ -1098,7 +1018,7 @@ export const products: Product[] = [
     price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/BQGNGGRn/IMG-20260826-WA9575.jpg',
+    image: 'https://i.postimg.cc/Kj1YLSkv/IMG-20260911-WA1401.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -1108,7 +1028,7 @@ export const products: Product[] = [
     price: 6000,
     material: 'Acero Dorado',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/Kj1YLSkv/IMG-20260911-WA1401.jpg',
+    image: 'https://i.postimg.cc/Bbf5sxYT/IMG-20260902-WA1078.jpg',
     isNew: false,
     isFeatured: false
   },
@@ -1124,16 +1044,6 @@ export const products: Product[] = [
   },
 {
     id: 311,
-    name: 'Aros estrellado dorado',
-    price: 6000,
-    material: 'Acero Dorado',
-    category: 'Aretes',
-    image: 'https://i.postimg.cc/HL77xr73/IMG-20260902-WA4021.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 312,
     name: 'Aros gotas dorado',
     price: 5000,
     material: 'Acero Dorado',
@@ -1143,7 +1053,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 314,
+    id: 312,
     name: 'Aros gotas de color',
     price: 6000,
     material: 'Acero Dorado',
@@ -1153,7 +1063,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 315,
+    id: 313,
     name: 'Aros argollas gruesas',
     price: 6000,
     material: 'Acero Dorado',
@@ -1163,7 +1073,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 316,
+    id: 314,
     name: 'Aros corazon arcoiris',
     price: 6000,
     material: 'Acero Dorado',
@@ -1173,7 +1083,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 317,
+    id: 315,
     name: 'Aros piedras rojas',
     price: 6000,
     material: 'Acero Blanco',
@@ -1183,7 +1093,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 318,
+    id: 316,
     name: 'Aros moño brilalnte',
     price: 6000,
     material: 'Acero Blanco',
@@ -1193,7 +1103,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 319,
+    id: 317,
     name: 'Aros de colores mini',
     price: 5000,
     material: 'Acero Blanco',
@@ -1203,7 +1113,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 320,
+    id: 318,
     name: 'Aros vuelo de colibri',
     price: 6000,
     material: 'Acero Blanco',
@@ -1213,7 +1123,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 321,
+    id: 319,
     name: 'Aros serpiente verde',
     price: 6000,
     material: 'Acero Blanco',
@@ -1223,7 +1133,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 322,
+    id: 320,
     name: 'Aros argolla dorada',
     price: 6000,
     material: 'Acero Dorado',
@@ -1233,7 +1143,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 323,
+    id: 321,
     name: 'Aros reliquia',
     price: 6000,
     material: 'Acero Blanco',
@@ -1243,7 +1153,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 324,
+    id: 322,
     name: 'Aros argolla con rombos',
     price: 6000,
     material: 'Acero Blanco',
@@ -1253,7 +1163,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 325,
+    id: 323,
     name: 'Aros mosaico',
     price: 6000,
     material: 'Acero Blanco',
@@ -1263,7 +1173,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 326,
+    id: 324,
     name: 'Aros gancho dorados',
     price: 6000,
     material: 'Acero Dorado',
@@ -1273,7 +1183,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 327,
+    id: 325,
     name: 'Aros forja',
     price: 6000,
     material: 'Acero Blanco',
@@ -1283,7 +1193,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 328,
+    id: 326,
     name: 'Aros U dorados',
     price: 6000,
     material: 'Acero Dorado',
@@ -1293,7 +1203,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 329,
+    id: 327,
     name: 'Aros perla violeta',
     price: 6000,
     material: 'Acero Blanco',
@@ -1303,7 +1213,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 330,
+    id: 328,
     name: 'Aros atardecer',
     price: 6000,
     material: 'Acero Blanco',
@@ -1313,17 +1223,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 331,
-    name: 'Aros estrella fugaz dorada',
-    price: 6000,
-    material: 'Acero Dorado',
-    category: 'Aretes',
-    image: 'https://i.postimg.cc/pLh5qsBH/IMG-20260908-WA9466.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
-    id: 332,
+    id: 329,
     name: 'Aros alegria de cristal',
     price: 6000,
     material: 'Acero Blanco',
@@ -1333,7 +1233,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 333,
+    id: 330,
     name: 'Aros argollas doradas',
     price: 6000,
     material: 'Acero Dorado',
@@ -1343,7 +1243,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 334,
+    id: 331,
     name: 'Aros de plata vinculo',
     price: 24000,
     material: 'Plata de Ley',
@@ -1353,7 +1253,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 335,
+    id: 332,
     name: 'Aros de plata cristal',
     price: 24000,
     material: 'Plata de Ley',
@@ -1363,7 +1263,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 336,
+    id: 333,
     name: 'Aros de plata eterno',
     price: 24000,
     material: 'Plata de Ley',
@@ -1373,7 +1273,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 337,
+    id: 334,
     name: 'Aros royal',
     price: 6000,
     material: 'Acero Blanco',
@@ -1383,7 +1283,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 338,
+    id: 335,
     name: 'Aros realeza',
     price: 6000,
     material: 'Acero Blanco',
@@ -1393,7 +1293,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 339,
+    id: 336,
     name: 'Aros gotita',
     price: 6000,
     material: 'Acero Blanco',
@@ -1403,7 +1303,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 340,
+    id: 337,
     name: 'Aros colgantes',
     price: 6000,
     material: 'Acero Blanco',
@@ -1413,7 +1313,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 341,
+    id: 338,
     name: 'Aros corazones largo',
     price: 6000,
     material: 'Acero Blanco',
@@ -1423,7 +1323,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 342,
+    id: 339,
     name: 'Aros gota plateada',
     price: 6000,
     material: 'Acero Blanco',
@@ -1433,7 +1333,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 343,
+    id: 340,
     name: 'Aros mini mariposa',
     price: 6000,
     material: 'Acero Blanco',
@@ -1443,7 +1343,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 344,
+    id: 341,
     name: 'Aros estrella fugaz',
     price: 6000,
     material: 'Acero Blanco',
