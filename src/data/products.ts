@@ -462,7 +462,7 @@ export const products: Product[] = [
     price: 8000,
     material: 'Acero Quirúrgico',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/PfgfPhpM/IMG-20260914-WA0357.jpg',
+    image: 'https://i.postimg.cc/vZ5mGYr9/agotado-anillo-con-puntas.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -682,7 +682,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/MTG0MV42/IMG-20260914-WA7945.jpg',
+    image: 'https://i.postimg.cc/nLybrBpy/agotado-estrella-trenzado.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -742,7 +742,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/TPBgk13x/IMG-20260914-WA5519.jpg',
+    image: 'https://i.postimg.cc/SRmPYG34/agotado-noche.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -822,7 +822,7 @@ export const products: Product[] = [
     price: 6000,
     material: 'Acero Quirúrgico',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/MGLNd7BR/IMG-20260914-WA7492.jpg',
+    image: 'https://i.postimg.cc/0jp8PZSd/agotado-anillo-plano-chico.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -1748,7 +1748,7 @@ export const products: Product[] = [
     price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/3JjsBfXH/IMG-20260910-WA1659.jpg',
+    image: 'https://i.postimg.cc/Cxnc1t5d/agotado-corazones-largo.jpg',
     isNew: true,
     isFeatured: false
   },
