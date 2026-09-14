@@ -446,6 +446,396 @@ export const products: Product[] = [
     isNew: true,
     isFeatured: false
   },
+{
+    id: 41,
+    name: 'Anillo doble estrella fino',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/MGdgR0sT/IMG-20260914-WA0154.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 42,
+    name: 'Anillo de puntas fino',
+    price: 8000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/PfgfPhpM/IMG-20260914-WA0357.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 43,
+    name: 'Anillo doble estrella grueso',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/3NmTg40H/IMG-20260914-WA0550.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 44,
+    name: 'Anillo estrella plana grueso',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/YqN70Fwb/IMG-20260914-WA0612.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 45,
+    name: 'Anillo estrella simple grueso',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/XY2TBc1X/IMG-20260914-WA1161.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 46,
+    name: 'Anillo viento',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/tCpfrmL5/IMG-20260914-WA1170.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 47,
+    name: 'Anillo muchas estrellas',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/wxVFBxG9/IMG-20260914-WA1620.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 48,
+    name: 'Anillo calavera',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/WzbGZrHd/IMG-20260914-WA4065.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 49,
+    name: 'Anillo as de picas',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/JnRZwZmJ/IMG-20260914-WA5805.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 50,
+    name: 'Anillo estrella grande',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/ncX7tH8S/IMG-20260914-WA6026.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 51,
+    name: 'Anillo corazon goteado',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/gJMwf7g9/IMG-20260914-WA6734.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 52,
+    name: 'Anillo brujula',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/ncmzkMfV/IMG-20260914-WA6811.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 53,
+    name: 'Anillo estrella negra',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Xvs7JC9M/IMG-20260914-WA6998.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 54,
+    name: 'Anillo bola 8',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/cLm8R6f1/IMG-20260914-WA8311.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 55,
+    name: 'Anillo tres estrellas fugaz',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Kvbz0xG8/IMG-20260914-WA3718.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 56,
+    name: 'Anillo dos estrellas fugaz',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/C5sw3nhs/IMG-20260914-WA8727.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 57,
+    name: 'Anillo puros corazones',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/PfQhrZHJ/IMG-20260914-WA1325.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 58,
+    name: 'Anillo estrella de la muerte',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/L8wF03kF/IMG-20260914-WA1392.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 59,
+    name: 'Anillo mini estrella negra',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/ydK5wQkr/IMG-20260914-WA5471.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 60,
+    name: 'Anillo mini alambre',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/BvT7cTMx/IMG-20260914-WA2867.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 61,
+    name: 'Anillo fuego',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Kv19sS0Z/IMG-20260914-WA5929.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 62,
+    name: 'Anillo alambre de puas',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/k4MsQk2Y/IMG-20260914-WA6058.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 63,
+    name: 'Anillo punto negro',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/0ygCW66G/IMG-20260914-WA6523.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 64,
+    name: 'Anillo estrella trenzado',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/MTG0MV42/IMG-20260914-WA7945.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 65,
+    name: 'Anillo rio negro',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/F1XJZLPC/IMG-20260914-WA3070.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 66,
+    name: 'Anillo colgante',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/6QM1Tdcb/IMG-20260914-WA2642.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 67,
+    name: 'Anillo ovalado',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/ZR9jRXCb/IMG-20260914-WA2688.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 68,
+    name: 'Anillo negro',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/J43xGN4Y/IMG-20260914-WA6799.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 69,
+    name: 'Anillo cielo',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/Hx74H5hw/IMG-20260914-WA6607.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 70,
+    name: 'Anillo noche',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/TPBgk13x/IMG-20260914-WA5519.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 71,
+    name: 'Anillo estrella brillante',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/HsSJZn6N/IMG-20260914-WA7888.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 72,
+    name: 'Anillo corazon picos',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/hv2G5Z17/IMG-20260914-WA7947.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 73,
+    name: 'Anillo simple hombre',
+    price: 5000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/s2C3wRC6/IMG-20260914-WA1919.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 74,
+    name: 'Anillo plano hombre',
+    price: 5000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/6pnX714d/IMG-20260914-WA6044.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 75,
+    name: 'Anillo cadena hombre',
+    price: 5000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/ydQ4qM21/IMG-20260914-WA6291.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 76,
+    name: 'Anillo giratorio hombre',
+    price: 5000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/g2F9PqtD/IMG-20260914-WA7642.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 77,
+    name: 'Anillo linea hombre',
+    price: 5000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/xCF7pKbm/IMG-20260914-WA8295.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 78,
+    name: 'Anillo plano chico hombre',
+    price: 6000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/MGLNd7BR/IMG-20260914-WA7492.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 79,
+    name: 'Anillo plano chico hombre',
+    price: 5000,
+    material: 'Acero Quirúrgico',
+    category: 'Anillos',
+    image: 'https://i.postimg.cc/FF38VJHS/IMG-20260914-WA8143.jpg',
+    isNew: true,
+    isFeatured: false
+  },
 
   // ========= COLLARES =========
   {
@@ -656,6 +1046,46 @@ export const products: Product[] = [
     category: 'Collares',
     image: 'https://i.postimg.cc/yNr4RJFR/IMG-20260909-WA9763.jpg',
     isNew: false,
+    isFeatured: false
+  },
+{
+    id: 122,
+    name: 'Collar asimetrico',
+    price: 6000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/7Yqs1sRp/IMG-20260914-WA7512.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 123,
+    name: 'Cadena con estrella doble',
+    price: 4000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/9QrB1vYB/IMG-20260914-WA4668.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 124,
+    name: 'Cadenita con estrella grande',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/KvsPK0hn/IMG-20260914-WA8778.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 125,
+    name: 'Cadenita con estrella grande',
+    price: 3000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/52h8gj0j/IMG-20260914-WA2075.jpg',
+    isNew: true,
     isFeatured: false
   },
 
