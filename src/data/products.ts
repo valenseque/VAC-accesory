@@ -512,7 +512,7 @@ export const products: Product[] = [
     price: 4000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/wxVFBxG9/IMG-20260914-WA1620.jpg',
+    image: 'https://i.postimg.cc/j5WvM2xH/agotado-muchas-estrellas.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -632,7 +632,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/ydK5wQkr/IMG-20260914-WA5471.jpg',
+    image: 'https://i.postimg.cc/wM85Fkbz/agotado-mini-estrella.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -652,7 +652,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/Kv19sS0Z/IMG-20260914-WA5929.jpg',
+    image: 'https://i.postimg.cc/j2bNySLt/agotado-fuego.jpg',
     isNew: true,
     isFeatured: false
   },
