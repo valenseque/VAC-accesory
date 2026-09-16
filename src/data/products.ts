@@ -846,7 +846,7 @@ export const products: Product[] = [
     category: 'Collares',
     image: 'https://i.postimg.cc/TYzs8CK6/IMG-20260826-WA1956.jpg',
     isNew: false,
-    isFeatured: true
+    isFeatured: false
   },
 {
     id: 102,
@@ -1066,7 +1066,7 @@ export const products: Product[] = [
     category: 'Collares',
     image: 'https://i.postimg.cc/9QrB1vYB/IMG-20260914-WA4668.jpg',
     isNew: true,
-    isFeatured: false
+    isFeatured: true
   },
 {
     id: 124,
@@ -1640,7 +1640,7 @@ export const products: Product[] = [
     category: 'Aretes',
     image: 'https://i.postimg.cc/TYknkLM5/IMG-20260908-WA7144.jpg',
     isNew: true,
-    isFeatured: false
+    isFeatured: true
   },
 {
     id: 328,
