@@ -463,7 +463,7 @@ export const products: Product[] = [
     material: 'Acero Quirúrgico',
     category: 'Anillos',
     image: 'https://i.postimg.cc/vZ5mGYr9/agotado-anillo-con-puntas.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -513,7 +513,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/j5WvM2xH/agotado-muchas-estrellas.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -633,7 +633,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/wM85Fkbz/agotado-mini-estrella.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -653,7 +653,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/j2bNySLt/agotado-fuego.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -683,7 +683,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/nLybrBpy/agotado-estrella-trenzado.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -743,7 +743,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Anillos',
     image: 'https://i.postimg.cc/SRmPYG34/agotado-noche.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -823,7 +823,7 @@ export const products: Product[] = [
     material: 'Acero Quirúrgico',
     category: 'Anillos',
     image: 'https://i.postimg.cc/0jp8PZSd/agotado-anillo-plano-chico.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1379,7 +1379,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/vZSWF3Q1/IMG-20260910-WA9168.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1439,7 +1439,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/FHkcJXVQ/IMG-20260902-WA0832.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -1449,7 +1449,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/Kj1YLSkv/IMG-20260911-WA1401.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1459,7 +1459,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/Bbf5sxYT/IMG-20260902-WA1078.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
@@ -1499,7 +1499,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/fybzVPrz/IMG-20260903-WA3871.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1569,7 +1569,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/7Lnccnxd/IMG-20260903-WA8513.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1589,7 +1589,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/T3RHbWjh/IMG-20260908-WA0449.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1619,7 +1619,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/WpGn711r/IMG-20260908-WA3806.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1669,7 +1669,7 @@ export const products: Product[] = [
     material: 'Acero Dorado',
     category: 'Aretes',
     image: 'https://i.postimg.cc/4NrxNspB/IMG-20260908-WA9939.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1734,7 +1734,7 @@ export const products: Product[] = [
   },
 {
     id: 337,
-    name: 'Aros colgantes',
+    name: 'Aros doblados de cristal',
     price: 6000,
     material: 'Acero Blanco',
     category: 'Aretes',
@@ -1749,7 +1749,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/Cxnc1t5d/agotado-corazones-largo.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1759,7 +1759,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/25tM6sYY/IMG-20260910-WA3336.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1769,7 +1769,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/ht17Kn9j/IMG-20260911-WA7603.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 {
@@ -1779,7 +1779,7 @@ export const products: Product[] = [
     material: 'Acero Blanco',
     category: 'Aretes',
     image: 'https://i.postimg.cc/jqnwLPz8/IMG-20260911-WA8621.jpg',
-    isNew: true,
+    isNew: false,
     isFeatured: false
   },
 ]
