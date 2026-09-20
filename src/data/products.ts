@@ -642,7 +642,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/BvT7cTMx/IMG-20260914-WA2867.jpg',
+    image: 'https://i.postimg.cc/JzRDCZxw/agotado-mini-alambre.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -672,7 +672,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/0ygCW66G/IMG-20260914-WA6523.jpg',
+    image: 'https://i.postimg.cc/K8QKGjps/agotado-punto-negro.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -692,7 +692,7 @@ export const products: Product[] = [
     price: 3000,
     material: 'Acero Blanco',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/F1XJZLPC/IMG-20260914-WA3070.jpg',
+    image: 'https://i.postimg.cc/N0z5XVc9/agotado-rio-negro.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -1034,7 +1034,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Blanco',
     category: 'Collares',
-    image: 'https://i.postimg.cc/3r07gZf1/IMG-20260909-WA9433.jpg',
+    image: 'https://i.postimg.cc/Fs5kG2JH/agotado-corazon-brillante.jpg',
     isNew: true,
     isFeatured: false
   },
