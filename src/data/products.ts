@@ -1688,7 +1688,7 @@ export const products: Product[] = [
     price: 24000,
     material: 'Plata de Ley',
     category: 'Aretes',
-    image: 'https://i.postimg.cc/d090YfB1/IMG-20260910-WA2010.jpg',
+    image: 'https://i.postimg.cc/v8zN4235/agotado-plata-cristal.jpg',
     isNew: true,
     isFeatured: false
   },
