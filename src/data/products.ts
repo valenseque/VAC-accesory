@@ -1261,6 +1261,96 @@ export const products: Product[] = [
 
   // ========= PULSERAS =========
 {
+    id: 254,
+    name: 'pulsera virgen II',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/jdGpNDS8/IMG-20260928-WA5390.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 253,
+    name: 'pulsera virgen I',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/pdttNmNB/IMG-20260928-WA5978.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 252,
+    name: 'pulsera hilo rojo',
+    price: 8000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/nrwtNTZF/IMG-20260928-WA6794.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 251,
+    name: 'pulsera corazon azul',
+    price: 8000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/9FMm1wVW/IMG-20260928-WA7288.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 250,
+    name: 'pulsera con cierre de corazon',
+    price: 17000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/ZYPBXd1x/IMG-20260928-WA9576.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 249,
+    name: 'pulsera corazon con U',
+    price: 9000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/ZYPBXd1x/IMG-20260928-WA9576.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 248,
+    name: 'pulsera dijes azules',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/4NTv9ZTq/IMG-20260928-WA9610.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 247,
+    name: 'pulsera vivora II',
+    price: 8000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/d1kR8V1S/IMG-20260928-WA9836.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 246,
+    name: 'pulsera vivora I',
+    price: 6000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/y63nRv3W/IMG-20260928-WA1561.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
     id: 245,
     name: 'piedras colgante estrella',
     price: 10000,
@@ -1416,7 +1506,7 @@ export const products: Product[] = [
     price: 9000,
     material: 'Acero Quirúrgico',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/MTrH1YR6/IMG-20260904-WA0046.jpg',
+    image: 'https://i.postimg.cc/c4ZYJmQz/IMG-20260928-WA2851.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -1426,7 +1516,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Quirúrgico',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/PJRDrjK5/IMG-20260904-WA0044.jpg',
+    image: 'https://i.postimg.cc/3J04CznP/IMG-20260904-WA0045.jpg',
     isNew: true,
     isFeatured: false
   },
