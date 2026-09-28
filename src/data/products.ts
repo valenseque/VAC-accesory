@@ -839,6 +839,96 @@ export const products: Product[] = [
 
   // ========= COLLARES =========
 {
+    id: 142,
+    name: 'dije de nene',
+    price: 7000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/66b4fXRn/IMG-20260928-WA9785.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 142,
+    name: 'dije de nena',
+    price: 7000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/XYC5vzrx/IMG-20260928-WA2310.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 141,
+    name: 'collar de bolitas finas',
+    price: 10000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/hvZmJF8J/IMG-20260927-WA3769.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 140,
+    name: 'collar trenzado II',
+    price: 10000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/5263Sg6V/IMG-20260927-WA3713.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 139,
+    name: 'collar con dije marino',
+    price: 17000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/fW1TbTmC/IMG-20260927-WA3564.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 138,
+    name: 'collar rigido',
+    price: 24000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/1zskzbvG/IMG-20260925-WA5574.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 137,
+    name: 'collar de bolas grandes',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/657tJsPH/IMG-20260927-WA4275.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 136,
+    name: 'collar cierre redondo IV',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/W32TQdRq/IMG-20260927-WA3486.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 135,
+    name: 'collar piedras van cleef',
+    price: 15000,
+    material: 'Acero Blanco',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/8cpcBykZ/IMG-20260925-WA7951.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
     id: 101,
     name: 'Collar triple dije III',
     price: 15000,
@@ -960,7 +1050,7 @@ export const products: Product[] = [
   },
 {
     id: 113,
-    name: 'Collar trenzado',
+    name: 'Collar trenzado I',
     price: 4000,
     material: 'Acero Dorado',
     category: 'Collares',
@@ -1180,6 +1270,206 @@ export const products: Product[] = [
   },
 
   // ========= PULSERAS =========
+{
+    id: 244,
+    name: 'piedras colgante estrella',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/Qd4QBTmh/IMG-20260925-WA6238.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 243,
+    name: 'piedras colgante estrella',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/Qd4QBTmh/IMG-20260925-WA6238.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 243,
+    name: 'piedras de mariposa',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/nLWGWD9B/IMG-20260925-WA5504.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 242,
+    name: 'tobillera van cleef',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/DZWBfg3D/IMG-20260925-WA8855.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 241,
+    name: 'tobillera de corazon grande',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/xTmh39hQ/IMG-20260925-WA5333.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 240,
+    name: 'tobillera de corazon',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/bvx5cL8D/IMG-20260925-WA4910.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 239,
+    name: 'piedras simple I',
+    price: 6000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/kX5PNrCL/IMG-20260925-WA3292.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 238,
+    name: 'piedras corazon geometrico',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/qq44Hg9J/IMG-20260925-WA2410.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 237,
+    name: 'pulsera de ojo',
+    price: 17000,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/5yS9X8wk/IMG-20260925-WA1171.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 236,
+    name: 'pulsera doble cadena',
+    price: 17000,
+    material: 'Acero Blanco',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/W4zdxY0C/IMG-20260925-WA8181.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 235,
+    name: 'pulsera mariposa grande',
+    price: 12000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/0NVpwJC1/IMG-20260925-WA4209.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 235,
+    name: 'pulsera corazon grueso',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/3wtmbmpj/IMG-20260925-WA4112.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 234,
+    name: 'pulsera corazon plateado',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/Wbq8FWrV/IMG-20260925-WA2942.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 233,
+    name: 'pulsera corazon violeta',
+    price: 8000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/PxMc76Kj/IMG-20260927-WA7825.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 232,
+    name: 'pulsera dijes rojos',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/rwPqnpsD/IMG-20260925-WA6176.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 231,
+    name: 'pulsera dijes rosa',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/x1tX0YC2/IMG-20260925-WA0632.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 230,
+    name: 'pulsera cierre redondo',
+    price: 9000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/MTrH1YR6/IMG-20260904-WA0046.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 229,
+    name: 'pulsera mano de fatima',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/PJRDrjK5/IMG-20260904-WA0044.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 228,
+    name: 'pulsera virgen de guadalupe',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/PJRDrjK5/IMG-20260904-WA0044.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 227,
+    name: 'pulsera muchos santos',
+    price: 23000,
+    material: 'Acero Quirúrgico',
+    category: 'Pulseras',
+    image: 'https://i.postimg.cc/RVY1vcbk/IMG-20260904-WA0028.jpg',
+    isNew: false,
+    isFeatured: false
+  },
 {
     id: 200,
     name: 'pulsera geometrica',
