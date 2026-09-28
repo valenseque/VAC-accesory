@@ -849,16 +849,6 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 142,
-    name: 'dije de nena',
-    price: 7000,
-    material: 'Acero Quirúrgico',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/XYC5vzrx/IMG-20260928-WA2310.jpg',
-    isNew: true,
-    isFeatured: false
-  },
-{
     id: 141,
     name: 'collar de bolitas finas',
     price: 10000,
@@ -1270,16 +1260,6 @@ export const products: Product[] = [
   },
 
   // ========= PULSERAS =========
-{
-    id: 244,
-    name: 'piedras colgante estrella',
-    price: 10000,
-    material: 'Acero Quirúrgico',
-    category: 'Pulseras',
-    image: 'https://i.postimg.cc/Qd4QBTmh/IMG-20260925-WA6238.jpg',
-    isNew: true,
-    isFeatured: false
-  },
 {
     id: 243,
     name: 'piedras colgante estrella',
