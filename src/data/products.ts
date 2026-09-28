@@ -1261,7 +1261,7 @@ export const products: Product[] = [
 
   // ========= PULSERAS =========
 {
-    id: 243,
+    id: 245,
     name: 'piedras colgante estrella',
     price: 10000,
     material: 'Acero Quirúrgico',
@@ -1271,7 +1271,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 243,
+    id: 244,
     name: 'piedras de mariposa',
     price: 10000,
     material: 'Acero Quirúrgico',
@@ -1281,7 +1281,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 242,
+    id: 243,
     name: 'tobillera van cleef',
     price: 10000,
     material: 'Acero Quirúrgico',
@@ -1291,7 +1291,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 241,
+    id: 242,
     name: 'tobillera de corazon grande',
     price: 10000,
     material: 'Acero Quirúrgico',
@@ -1301,7 +1301,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 240,
+    id: 241,
     name: 'tobillera de corazon',
     price: 10000,
     material: 'Acero Quirúrgico',
@@ -1311,7 +1311,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 239,
+    id: 240,
     name: 'piedras simple I',
     price: 6000,
     material: 'Acero Quirúrgico',
@@ -1321,7 +1321,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 238,
+    id: 239,
     name: 'piedras corazon geometrico',
     price: 10000,
     material: 'Acero Quirúrgico',
@@ -1331,7 +1331,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 237,
+    id: 238,
     name: 'pulsera de ojo',
     price: 17000,
     material: 'Acero Blanco',
@@ -1341,7 +1341,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 236,
+    id: 237,
     name: 'pulsera doble cadena',
     price: 17000,
     material: 'Acero Blanco',
@@ -1351,7 +1351,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 235,
+    id: 236,
     name: 'pulsera mariposa grande',
     price: 12000,
     material: 'Acero Quirúrgico',
