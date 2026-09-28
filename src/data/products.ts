@@ -1306,7 +1306,7 @@ export const products: Product[] = [
     price: 17000,
     material: 'Acero Quirúrgico',
     category: 'Pulseras',
-    image: 'https://i.postimg.cc/ZYPBXd1x/IMG-20260928-WA9576.jpg',
+    image: 'https://i.postimg.cc/sXYxFk0v/IMG-20260928-WA8589.jpg',
     isNew: true,
     isFeatured: false
   },
