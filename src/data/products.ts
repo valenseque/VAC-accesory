@@ -838,18 +838,108 @@ export const products: Product[] = [
   },
 
   // ========= COLLARES =========
-  {
+{
     id: 101,
+    name: 'Collar triple dije III',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/9Xpc7bdQ/IMG-20260927-WA5924.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 102,
+    name: 'Collar triple dije II',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/PryNdhVs/IMG-20260927-WA2213.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 103,
+    name: 'Collar triple dije I',
+    price: 15000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/B6P1vyLx/IMG-20260927-WA9094.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 104,
+    name: 'Collar cierre redondo III',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/jqJzqWP6/IMG-20260927-WA0406.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 105,
+    name: 'Collar cierre redondo II',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/8kqmLdTf/IMG-20260927-WA5181.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 106,
+    name: 'Collar cierre redondo I',
+    price: 10000,
+    material: 'Acero Quirúrgico',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/y65Sw7Gt/IMG-20260927-WA8572.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+{
+    id: 107,
+    name: 'Collar fino simple II',
+    price: 9000,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/d0ByXrMw/IMG-20260927-WA9024.jpg',
+    isNew: true,
+    isFeatured: false
+  }, 
+  {
+    id: 108,
+    name: 'Collar fino simple I',
+    price: 9000,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/g2xtGccv/IMG-20260927-WA7965.jpg',
+    isNew: true,
+    isFeatured: false
+  }, 
+{
+    id: 109,
+    name: 'Collar redondo con perla',
+    price: 15000,
+    material: 'Acero Dorado',
+    category: 'Collares',
+    image: 'https://i.postimg.cc/zGv63S7Z/IMG-20260927-WA5900.jpg',
+    isNew: true,
+    isFeatured: false
+  },
+  {
+    id: 110,
     name: 'Collar simple',
     price: 4000,
     material: 'Acero Quirúrgico',
     category: 'Collares',
     image: 'https://i.postimg.cc/TYzs8CK6/IMG-20260826-WA1956.jpg',
-    isNew: false,
+    isNew: true,
     isFeatured: false
   },
 {
-    id: 102,
+    id: 111,
     name: 'Collar puntillismo',
     price: 4000,
     material: 'Acero Blanco',
@@ -859,7 +949,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 103,
+    id: 112,
     name: 'Collar cero blanco',
     price: 12000,
     material: 'Acero Blanco',
@@ -869,7 +959,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 104,
+    id: 113,
     name: 'Collar trenzado',
     price: 4000,
     material: 'Acero Dorado',
@@ -879,7 +969,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 105,
+    id: 114,
     name: 'Collar corazon arcoiris',
     price: 12000,
     material: 'Acero Dorado',
@@ -889,7 +979,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 106,
+    id: 115,
     name: 'Collar estrella lunar',
     price: 6000,
     material: 'Acero Dorado',
@@ -899,7 +989,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 107,
+    id: 116,
     name: 'Collar san benito',
     price: 10000,
     material: 'Acero Blanco',
@@ -909,7 +999,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 108,
+    id: 117,
     name: 'Collar colibri verde plateado',
     price: 12000,
     material: 'Acero Blanco',
@@ -919,7 +1009,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 109,
+    id: 118,
     name: 'Collar estilo vaan clef dorado',
     price: 8000,
     material: 'Acero Dorado',
@@ -929,7 +1019,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 110,
+    id: 119,
     name: 'Collar mariposa plateada',
     price: 12000,
     material: 'Acero Blanco',
@@ -939,7 +1029,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 111,
+    id: 120,
     name: 'Collar estrella y bolitas',
     price: 7000,
     material: 'Acero Dorado',
@@ -949,7 +1039,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 112,
+    id: 121,
     name: 'Collar mariposa dorada',
     price: 10000,
     material: 'Acero Dorado',
@@ -959,7 +1049,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 113,
+    id: 122,
     name: 'Collar arbol de la vida',
     price: 12000,
     material: 'Acero Blanco',
@@ -969,7 +1059,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 114,
+    id: 123,
     name: 'collar simple hombre',
     price: 3000,
     material: 'Acero Blanco',
@@ -979,7 +1069,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 115,
+    id: 124,
     name: 'collar circular',
     price: 9000,
     material: 'Acero Blanco',
@@ -989,7 +1079,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 116,
+    id: 125,
     name: 'collar van cleef brillante',
     price: 15000,
     material: 'Acero Blanco',
@@ -999,7 +1089,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 117,
+    id: 126,
     name: 'collar fino hombre',
     price: 3000,
     material: 'Acero Blanco',
@@ -1009,7 +1099,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 118,
+    id: 127,
     name: 'collar fino plateado',
     price: 4000,
     material: 'Acero Blanco',
@@ -1019,7 +1109,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 119,
+    id: 128,
     name: 'collar cruz gruesa',
     price: 15000,
     material: 'Acero Blanco',
@@ -1029,7 +1119,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 120,
+    id: 129,
     name: 'collar corazon brillante',
     price: 10000,
     material: 'Acero Blanco',
@@ -1039,7 +1129,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 121,
+    id: 130,
     name: 'Collar corazon arcoiris chico',
     price: 8000,
     material: 'Acero Dorado',
@@ -1049,7 +1139,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 122,
+    id: 131,
     name: 'Collar asimetrico',
     price: 6000,
     material: 'Acero Blanco',
@@ -1059,7 +1149,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 123,
+    id: 132,
     name: 'Cadena con estrella doble',
     price: 4000,
     material: 'Acero Blanco',
@@ -1069,7 +1159,7 @@ export const products: Product[] = [
     isFeatured: true
   },
 {
-    id: 124,
+    id: 133,
     name: 'Cadenita con estrella grande',
     price: 3000,
     material: 'Acero Blanco',
@@ -1079,7 +1169,7 @@ export const products: Product[] = [
     isFeatured: false
   },
 {
-    id: 125,
+    id: 134,
     name: 'Cadenita cubana chica',
     price: 3000,
     material: 'Acero Blanco',
