@@ -772,7 +772,7 @@ export const products: Product[] = [
     price: 5000,
     material: 'Acero Quirúrgico',
     category: 'Anillos',
-    image: 'https://i.postimg.cc/s2C3wRC6/IMG-20260914-WA1919.jpg',
+    image: 'https://i.postimg.cc/fWGR9v8Q/agotado-fino-anillo.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -1166,16 +1166,6 @@ export const products: Product[] = [
     category: 'Collares',
     image: 'https://i.postimg.cc/NjYKjDwH/IMG-20260909-WA8199.jpg',
     isNew: false,
-    isFeatured: false
-  },
-{
-    id: 126,
-    name: 'collar fino hombre',
-    price: 3000,
-    material: 'Acero Blanco',
-    category: 'Collares',
-    image: 'https://i.postimg.cc/CLCKX8n3/IMG-20260909-WA9179.jpg',
-    isNew: true,
     isFeatured: false
   },
 {
