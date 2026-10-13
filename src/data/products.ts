@@ -954,7 +954,7 @@ export const products: Product[] = [
     price: 10000,
     material: 'Acero Quirúrgico',
     category: 'Collares',
-    image: 'https://i.postimg.cc/jqJzqWP6/IMG-20260927-WA0406.jpg',
+    image: 'https://i.postimg.cc/k4YTBGCh/agotado-collar-con-cierre-III.jpg',
     isNew: true,
     isFeatured: false
   },
@@ -1234,7 +1234,7 @@ export const products: Product[] = [
     price: 4000,
     material: 'Acero Blanco',
     category: 'Collares',
-    image: 'https://i.postimg.cc/9QrB1vYB/IMG-20260914-WA4668.jpg',
+    image: 'https://i.postimg.cc/RV5Df3Kx/agotado-cadena-con-estrella-doble.jpg',
     isNew: true,
     isFeatured: true
   },
